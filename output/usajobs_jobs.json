@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-23 17:02 UTC",
+  "scraped_at": "2026-07-24 17:08 UTC",
   "total": 13,
-  "new_count": 4,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Food and Drug Administration",
@@ -10,6 +10,15 @@
       "url": "https://www.usajobs.gov/job/877110500",
       "date_posted": "2026-07-17",
       "salary": "Starting at $121,785 Per year (RC 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Environmental Protection Agency",
+      "title": "Environmental Protection Specialist",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/877942800",
+      "date_posted": "2026-07-24",
+      "salary": "Starting at $64,290 Per year (GS 9-12)",
       "ats": "USAJOBS"
     },
     {
@@ -45,15 +54,6 @@
       "location": "Texarkana, Texas",
       "url": "https://www.usajobs.gov/job/877134900",
       "date_posted": "2026-07-20",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Battle Creek, Michigan",
-      "url": "https://www.usajobs.gov/job/876835500",
-      "date_posted": "2026-07-17",
       "salary": "Starting at $74,678 Per year (GS 11)",
       "ats": "USAJOBS"
     },
@@ -123,39 +123,12 @@
   ],
   "new_jobs": [
     {
-      "company": "John F. Kennedy Space Center",
-      "title": "Public Notice - Environmental Protection Specialist (Direct Hire)",
-      "location": "Kennedy Space Center, Florida",
-      "url": "https://www.usajobs.gov/job/877635100",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $107,228 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Highway Administration",
-      "title": "Environmental Protection Specialist - DIRECT HIRE",
-      "location": "Boise, Idaho",
-      "url": "https://www.usajobs.gov/job/877623000",
-      "date_posted": "2026-07-22",
-      "salary": "Starting at $89,508 Per year (GS 12-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Maritime Administration",
-      "title": "Environmental Protection Specialist (Open to both U.S. Citizens and Federal Employees)",
+      "company": "Environmental Protection Agency",
+      "title": "Environmental Protection Specialist",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/877612800",
-      "date_posted": "2026-07-22",
-      "salary": "Starting at $121,785 Per year (GS 13-14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Clinical Laboratory Scientist - Toxicology",
-      "location": "Minneapolis, Minnesota",
-      "url": "https://www.usajobs.gov/job/877606000",
-      "date_posted": "2026-07-22",
-      "salary": "Starting at $70,879 Per year (GS 7-11)",
+      "url": "https://www.usajobs.gov/job/877942800",
+      "date_posted": "2026-07-24",
+      "salary": "Starting at $64,290 Per year (GS 9-12)",
       "ats": "USAJOBS"
     }
   ]
