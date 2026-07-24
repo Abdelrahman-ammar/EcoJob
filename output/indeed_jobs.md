@@ -1,17 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-24 20:52 UTC*
+*Last updated: 2026-07-24 22:36 UTC*
 
-**2 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-### [Senior Environmental Specialist](https://www.indeed.com/viewjob?jk=f72c978711dcf6f4) — Ulteig
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $148k–$200k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-24
-
-### [Environmental Scientist](https://www.indeed.com/viewjob?jk=19c5531de3d8dc21) — Kikiktagruk Inupiat Corporation
-- 📍 **Location:** Portland, OR, US
+### [Environmental Compliance Inspector I](https://www.indeed.com/viewjob?jk=3b294ad419589b24) — Union Sanitary District
+- 📍 **Location:** Union City, CA, US
+- 💰 **Salary:** $50–$61/hr
 - **Work mode:** On-site
-- **Job type:** parttime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-24
