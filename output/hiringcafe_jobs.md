@@ -1,11 +1,6 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-24 18:16 UTC*
+*Last updated: 2026-07-24 20:18 UTC*
 
-**1 new role(s)** since last run · 72 total in last 30d
+**0 new role(s)** since last run · 69 total in last 30d
 
-### [Environmental Scientist](https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist) — AECOM
-- 📍 **Location:** Arlington, Virginia, United States
-- 💰 **Salary:** $60k–$80k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-24T12:49:03.794Z
+No new roles since the last run.
