@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24 17:08 UTC",
+  "scraped_at": "2026-07-25 16:27 UTC",
   "total": 13,
   "new_count": 1,
   "jobs": [
@@ -85,12 +85,12 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Commander, Navy Installations Command",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Fallon, Nevada",
-      "url": "https://www.usajobs.gov/job/875816500",
-      "date_posted": "2026-07-13",
-      "salary": "Starting at $74,972 Per year (GS 11)",
+      "company": "Air National Guard Units",
+      "title": "FIREFIGHTER (HAZARDOUS MATERIALS TECH-BASIC LIFE SUPPORT) (Title 5)",
+      "location": "Ellington AFB, Texas",
+      "url": "https://www.usajobs.gov/job/877961900",
+      "date_posted": "2026-07-25",
+      "salary": "Starting at $58,193 Per year (GS 7)",
       "ats": "USAJOBS"
     },
     {
@@ -123,12 +123,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Environmental Protection Agency",
-      "title": "Environmental Protection Specialist",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/877942800",
-      "date_posted": "2026-07-24",
-      "salary": "Starting at $64,290 Per year (GS 9-12)",
+      "company": "Air National Guard Units",
+      "title": "FIREFIGHTER (HAZARDOUS MATERIALS TECH-BASIC LIFE SUPPORT) (Title 5)",
+      "location": "Ellington AFB, Texas",
+      "url": "https://www.usajobs.gov/job/877961900",
+      "date_posted": "2026-07-25",
+      "salary": "Starting at $58,193 Per year (GS 7)",
       "ats": "USAJOBS"
     }
   ]
