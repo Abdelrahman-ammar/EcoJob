@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-25 00:02 UTC",
+  "scraped_at": "2026-07-25 04:07 UTC",
   "total": 71,
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Battelle",
-      "title": "Environmental Toxicologist (Biochemist) (76341)",
-      "location": "West Jefferson, Ohio, United States",
-      "url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
-      "direct_url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
-      "date_posted": "2026-06-25T17:29:00.000Z",
-      "description": "Ph.D. with 5+ years (or MS with 8+ years, or BS with 10+ years) in toxicology or related life science; expertise in in vivo toxicology, GLP and regulatory guidelines (OECD, ICH); study leadership, project management, and strong communication; legal U.S. work authorization required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Michigan, MI",
       "title": "Toxicologist 9-P11/12 - Hazardous Waste Program",
       "location": "Lansing, Michigan, United States",
@@ -236,6 +222,20 @@
       "date_posted": "2026-07-14T15:04:04.512Z",
       "description": "Master's in toxicology or related science with specified coursework; professional experience assessing toxic substances and conducting risk assessments; must provide transcripts and application materials.",
       "salary": "$58k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Exponent Inc.",
+      "title": "Public Health Toxicologist (Ph.D.)",
+      "location": "Austin, Texas, United States",
+      "url": "https://careers-exponent.icims.com/jobs/2523/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-exponent.icims.com/jobs/2523/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-24T23:02:00.000Z",
+      "description": "Ph.D. in toxicology or related field, strong background in human health toxicology/risk assessment, ≥1 year consulting experience preferred, excellent communication and writing, legally authorized to work in the US.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -424,6 +424,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kikiktagruk Inupiat Corporation",
+      "title": "Environmental Scientist",
+      "location": "Portland, Oregon, United States",
+      "url": "https://kikiktagruk.applicantpool.com/jobs/1317862",
+      "direct_url": "https://kikiktagruk.applicantpool.com/jobs/1317862",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's in environmental science/engineering/geology, 3+ years environmental experience, federal/DoD experience preferred, HAZWOPER 40hr, First Aid/CPR, OSHA 30, proficiency with Microsoft Excel/Word, strong safety focus.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "City of El Paso, TX",
       "title": "Environmental Scientist",
       "location": "El Paso, Texas, United States",
@@ -592,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BB&E",
-      "title": "NEPA Environmental Scientist",
-      "location": "Lackland Air Force Base, Texas, United States",
-      "url": "https://jobs.workable.com/view/b5xooyNtQUUWZf2DH7TzXk/nepa-environmental-scientist-in-lackland-air-force-base-at-bb%26e",
-      "direct_url": "https://jobs.workable.com/view/b5xooyNtQUUWZf2DH7TzXk/nepa-environmental-scientist-in-lackland-air-force-base-at-bb%26e",
-      "date_posted": "2026-06-30T17:52:09.427Z",
-      "description": "U.S. citizenship and ability to obtain/maintain NACI/CAC; bachelor’s in Environmental Sciences; minimum 3 years NEPA/environmental planning experience; strong knowledge of federal environmental regulations and NEPA; MS Office proficiency; strong written and verbal communication.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Spire Inc.",
       "title": "Environmental Scientist II",
       "location": "Birmingham or Mobile or Pelham or Montgomery",
@@ -676,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport-McMoRan",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://talent.fmjobs.com/careers/job/43028326",
-      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
-      "date_posted": "2026-07-08T18:40:20.000Z",
-      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
-      "salary": "$112k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GFT.",
       "title": "Principal Environmental Scientist",
       "location": "Owings Mills, Maryland, United States",
@@ -704,6 +690,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Freeport-McMoRan",
+      "title": "Chief Environmental Scientist",
+      "location": "Morenci, Arizona, United States",
+      "url": "https://talent.fmjobs.com/careers/job/43028326",
+      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
+      "date_posted": "2026-07-08T18:40:20.000Z",
+      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
+      "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Alliance Technical Group",
       "title": "Environmental Scientist III/IV",
       "location": "Bryant, Arkansas, United States",
@@ -712,6 +712,20 @@
       "date_posted": "2026-07-02T19:06:18.431Z",
       "description": "Bachelors in environmental science/related field, 6+ years environmental consulting experience, NPDES/ stormwater/SPCC knowledge, environmental sampling and data analysis, strong communication and project skills.",
       "salary": "$75k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Energy & Environment Cabinet | Department for Natural Resources",
+      "title": "Environmental Scientist III",
+      "location": "Location Varies, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet",
+      "date_posted": "2026-07-21T00:00:00.000Z",
+      "description": "Bachelor's in a natural/biological/physical science or equivalent experience; 3 years in natural resources or environmental control; strong communication, organization, time management, and decision-making skills.",
+      "salary": "$52k–$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -732,14 +746,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Energy & Environment Cabinet | Department for Natural Resources",
-      "title": "Environmental Scientist III",
-      "location": "Location Varies, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Bachelor's in a natural/biological/physical science or equivalent experience; 3 years in natural resources or environmental control; strong communication, organization, time management, and decision-making skills.",
-      "salary": "$52k–$71k/yr",
+      "company": "Moore Engineering, Inc.",
+      "title": "Environmental Scientist I",
+      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "date_posted": "2026-07-01T18:47:25.002Z",
+      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
+      "salary": "$71k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -970,15 +984,45 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Moore Engineering, Inc.",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
-      "salary": "$71k–$97k/yr",
+      "company": "CDR Companies",
+      "title": "Environmental Scientist II - Williamsport",
+      "location": "Wilkes-Barre, Pennsylvania, United States",
+      "url": "https://jobs.workable.com/view/pjuo4PzSsEEisSnmrJ27Us/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/pjuo4PzSsEEisSnmrJ27Us/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
+      "date_posted": "2026-07-24T14:30:13.796Z",
+      "description": "B.S. in environmental science or related field, 5+ years environmental experience, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS processing, valid driver’s license, Microsoft Office proficiency.",
+      "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Exponent Inc.",
+      "title": "Public Health Toxicologist (Ph.D.)",
+      "location": "Austin, Texas, United States",
+      "url": "https://careers-exponent.icims.com/jobs/2523/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-exponent.icims.com/jobs/2523/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-24T23:02:00.000Z",
+      "description": "Ph.D. in toxicology or related field, strong background in human health toxicology/risk assessment, ≥1 year consulting experience preferred, excellent communication and writing, legally authorized to work in the US.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kikiktagruk Inupiat Corporation",
+      "title": "Environmental Scientist",
+      "location": "Portland, Oregon, United States",
+      "url": "https://kikiktagruk.applicantpool.com/jobs/1317862",
+      "direct_url": "https://kikiktagruk.applicantpool.com/jobs/1317862",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's in environmental science/engineering/geology, 3+ years environmental experience, federal/DoD experience preferred, HAZWOPER 40hr, First Aid/CPR, OSHA 30, proficiency with Microsoft Excel/Word, strong safety focus.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -987,16 +1031,15 @@
       "company": "CDR Companies",
       "title": "Environmental Scientist II - Williamsport",
       "location": "Wilkes-Barre, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/omV93cUp2r8SfqgUNK4ddr/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/omV93cUp2r8SfqgUNK4ddr/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
-      "date_posted": "2026-07-17T16:06:42.816Z",
-      "description": "5+ years environmental experience, B.S. in environmental science or related, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS proficiency, Microsoft Office, valid driver’s license.",
+      "url": "https://jobs.workable.com/view/pjuo4PzSsEEisSnmrJ27Us/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/pjuo4PzSsEEisSnmrJ27Us/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
+      "date_posted": "2026-07-24T14:30:13.796Z",
+      "description": "B.S. in environmental science or related field, 5+ years environmental experience, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS processing, valid driver’s license, Microsoft Office proficiency.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
