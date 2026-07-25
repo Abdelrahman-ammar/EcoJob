@@ -1,6 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-25 01:11 UTC*
+*Last updated: 2026-07-25 03:54 UTC*
 
-**0 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-No new roles since the last run.
+### [Senior Remediation Geologist](https://www.indeed.com/viewjob?jk=9d1224d235c30128) — WSP
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $74k–$130k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-24
