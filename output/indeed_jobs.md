@@ -1,6 +1,18 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-25 04:52 UTC*
+*Last updated: 2026-07-25 16:27 UTC*
 
-**0 new role(s)** since last run · 8 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [ASSOCIATE TOXICOLOGIST](https://www.indeed.com/viewjob?jk=7b7b71ff70b7c34f) — California Department of Pesticide Regulation
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $6942–$9799/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-25
+
+### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=63104d1b5a33e268) — State Air Resources Board
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $5918–$11k/mo
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-25
