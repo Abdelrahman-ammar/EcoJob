@@ -1,16 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-26 00:06 UTC*
+*Last updated: 2026-07-26 04:23 UTC*
 
-**2 new role(s)** since last run · 66 total in last 30d
+**1 new role(s)** since last run · 65 total in last 30d
 
-### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1) — Kimley-Horn
-- 📍 **Location:** Reston, Virginia, United States
+### [Associate Director, Study Toxicologist](https://madrigalpharma.wd501.myworkdayjobs.com/madrigal/job/PA---Conshohocken---Office/Associate-Director--Study-Toxicologist_JR_000807-1) — Madrigalpharma
+- 📍 **Location:** Conshohocken, Pennsylvania, United States
+- 💰 **Salary:** $178k–$218k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-30T04:00:00.000Z
-
-### [Environmental Scientist](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en) — Cedarville Engineering Group
-- 📍 **Location:** Pottstown, Pennsylvania, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-30T16:11:15.000Z
+- 🕒 **Posted:** 2026-07-15T00:00:00.000Z
