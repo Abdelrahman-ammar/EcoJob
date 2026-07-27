@@ -1,6 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-27 19:02 UTC*
+*Last updated: 2026-07-27 20:54 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Water Quality Laboratory Program Manager](https://www.indeed.com/viewjob?jk=d1225e67ac7c87a9) — California Water Service Group (CWSG)
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $102k–$189k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-27
