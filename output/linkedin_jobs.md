@@ -1,14 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-27 05:20 UTC*
+*Last updated: 2026-07-27 17:23 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Senior Vice President, Preclinical Toxicology](https://www.linkedin.com/jobs/view/4445661754/) — BioSpace
-- 📍 **Location:** Brisbane, CA
-- 💰 **Salary:** $360K – $420K
-- 🕒 **Posted:** 2026-07-27
-
-### [Coordinator Environmental Health](https://www.linkedin.com/jobs/view/4444878054/) — Hobsons Bay City Council
-- 📍 **Location:** Altona, Victoria, Australia
-- 💰 **Salary:** $123,558.69 to $138,163.90
+### [Senior Technical Specialist, AI Risk Assessment](https://www.linkedin.com/jobs/view/4445151808/) — Jobgether
+- 📍 **Location:** Australia
 - 🕒 **Posted:** 2026-07-27
