@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26 23:05 UTC",
+  "scraped_at": "2026-07-27 02:40 UTC",
   "total": 66,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Penncolor",
-      "title": "Environmental Scientist",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
-      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Omega Technical Services",
       "title": "Environmental Scientist",
       "location": "Idaho Falls, Idaho, United States",
@@ -334,6 +320,20 @@
       "date_posted": "2026-07-17T15:31:34.000Z",
       "description": "5+ years supporting environmental remediation, site characterization, waste management or restoration; technical writing; environmental and radiological analyses; DOE clearance eligibility; US citizenship and pre-employment screening required.",
       "salary": "$150k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Penncolor",
+      "title": "Environmental Scientist",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
+      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -606,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GFT.",
-      "title": "Principal Environmental Scientist",
-      "location": "Owings Mills, Maryland, United States",
-      "url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-07-23T04:00:00.000Z",
-      "description": "Bachelor's in environmental field, 15 years experience in energy licensing/transmission siting, CPCN and permit coordination, technical writing, regulatory interface with state agencies.",
-      "salary": "$140k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Freeport-McMoRan",
       "title": "Chief Environmental Scientist",
       "location": "Morenci, Arizona, United States",
@@ -634,6 +620,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "GFT.",
+      "title": "Principal Environmental Scientist",
+      "location": "Owings Mills, Maryland, United States",
+      "url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-07-23T04:00:00.000Z",
+      "description": "Bachelor's in environmental field, 15 years experience in energy licensing/transmission siting, CPCN and permit coordination, technical writing, regulatory interface with state agencies.",
+      "salary": "$140k–$170k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Alliance Technical Group",
       "title": "Environmental Scientist III/IV",
       "location": "Bryant, Arkansas, United States",
@@ -642,20 +642,6 @@
       "date_posted": "2026-07-02T19:06:18.431Z",
       "description": "Bachelors in environmental science/related field, 6+ years environmental consulting experience, NPDES/ stormwater/SPCC knowledge, environmental sampling and data analysis, strong communication and project skills.",
       "salary": "$75k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Energy & Environment Cabinet | Department for Natural Resources",
-      "title": "Environmental Scientist III",
-      "location": "Location Varies, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Bachelor's in a natural/biological/physical science or equivalent experience; 3 years in natural resources or environmental control; strong communication, organization, time management, and decision-making skills.",
-      "salary": "$52k–$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -676,13 +662,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Moore Engineering, Inc.",
+      "company": "Energy & Environment Cabinet | Department for Natural Resources",
+      "title": "Environmental Scientist III",
+      "location": "Location Varies, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet",
+      "date_posted": "2026-07-21T00:00:00.000Z",
+      "description": "Bachelor's in a natural/biological/physical science or equivalent experience; 3 years in natural resources or environmental control; strong communication, organization, time management, and decision-making skills.",
+      "salary": "$52k–$71k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Vistal",
       "title": "Environmental Scientist I",
       "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
       "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
+      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
       "salary": "$71k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -900,13 +900,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vistal",
+      "company": "Moore Engineering, Inc.",
       "title": "Environmental Scientist I",
       "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
       "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
+      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
       "salary": "$71k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -928,20 +928,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Reston, Virginia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
