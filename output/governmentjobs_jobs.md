@@ -1,8 +1,12 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-07-26 17:18 UTC*
+*Last updated: 2026-07-27 17:57 UTC*
 
-**1 new role(s)** since last run · 8 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 7 total in recent GovernmentJobs postings
 
-### [Environmental Health Specialist II](https://www.governmentjobs.com/jobs/5404187-0/environmental-health-specialist-ii) — County of Sonoma (CA)
-- 📍 **Location:** Santa Rosa, CA
-- 💰 **Salary:** $103,938.58 - $126,333.37 Annually
+### [Environmental Specialist I](https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i) — Carlsbad, City of (CA)
+- 📍 **Location:** Carlsbad, CA
+- 💰 **Salary:** $69,721.60 - $84,822.40 Annually
+
+### [Environmental Specialist IV](https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv) — County of Sacramento
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $127,263.60 - $140,313.60 Annually

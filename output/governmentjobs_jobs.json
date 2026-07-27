@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-07-26 17:18 UTC",
-  "total": 8,
-  "new_count": 1,
+  "scraped_at": "2026-07-27 17:57 UTC",
+  "total": 7,
+  "new_count": 2,
   "jobs": [
-    {
-      "company": "Kern County",
-      "title": "Environmental Health Specialist-In Training",
-      "location": "Bakersfield, CA",
-      "url": "https://www.governmentjobs.com/jobs/5413929-0/environmental-health-specialist-in-training",
-      "date_posted": "",
-      "salary": "$4,701.62 - $5,618.88 Monthly",
-      "ats": "NEOGOV"
-    },
     {
       "company": "County of Sonoma (CA)",
       "title": "Environmental Health Specialist I",
@@ -31,39 +22,21 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "Kern County",
+      "title": "Environmental Health Specialist-In Training",
+      "location": "Bakersfield, CA",
+      "url": "https://www.governmentjobs.com/jobs/5413929-0/environmental-health-specialist-in-training",
+      "date_posted": "",
+      "salary": "$4,701.62 - $5,618.88 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Naples",
       "title": "Water Quality Project Manager",
       "location": "295 Riverside Circle Naples, FL",
       "url": "https://www.governmentjobs.com/jobs/5402120-0/water-quality-project-manager",
       "date_posted": "",
       "salary": "$90,402.00 - $140,123.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
-      "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Oregon Department of Environmental Quality",
-      "title": "Water Quality Regional Manager (Natural Resource Protection and Sustainability Manager 2)",
-      "location": "Bend, OR ; Klamath Falls, OR",
-      "url": "https://www.governmentjobs.com/jobs/147074-1/water-quality-regional-manager-natural-resource-protection-and-sustainability-ma",
-      "date_posted": "",
-      "salary": "$7,537.00 - $11,657.00 Monthly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "East Bay Municipal Utility District",
-      "title": "Superintendent of Water Treatment/Distribution/Systems Water Quality (System Water Quality)",
-      "location": "Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5381810-0/superintendent-of-water-treatment-distribution-systems-water-quality-system-wate",
-      "date_posted": "",
-      "salary": "$191,664.00 - $221,892.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -74,16 +47,43 @@
       "date_posted": "",
       "salary": "$67,056.00 - $85,584.00 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist IV",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
+      "date_posted": "",
+      "salary": "$127,263.60 - $140,313.60 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of Sonoma (CA)",
-      "title": "Environmental Health Specialist II",
-      "location": "Santa Rosa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5404187-0/environmental-health-specialist-ii",
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
       "date_posted": "",
-      "salary": "$103,938.58 - $126,333.37 Annually",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist IV",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5398391-0/environmental-specialist-iv",
+      "date_posted": "",
+      "salary": "$127,263.60 - $140,313.60 Annually",
       "ats": "NEOGOV"
     }
   ]
