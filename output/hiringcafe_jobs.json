@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 22:02 UTC",
-  "total": 67,
-  "new_count": 1,
+  "scraped_at": "2026-07-28 23:56 UTC",
+  "total": 69,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Department of Pesticide Regulation",
@@ -298,6 +298,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Tetra Tech",
+      "title": "Environmental Scientist",
+      "location": "Pearl City, Hawaii, United States",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
+      "date_posted": "2026-07-09T22:26:54.882Z",
+      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
+      "salary": "$65k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Penncolor",
       "title": "Environmental Scientist",
       "location": "Pittsburgh, Pennsylvania, United States",
@@ -326,20 +340,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Pearl City, Hawaii, United States",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "date_posted": "2026-07-09T22:26:54.882Z",
-      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
-      "salary": "$65k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "AECOM",
       "title": "Environmental Scientist",
       "location": "Arlington, Virginia, United States",
@@ -348,20 +348,6 @@
       "date_posted": "2026-07-24T12:49:03.794Z",
       "description": "Bachelor's in Environmental Science,2+ years environmental consulting experience,valid U.S. driver's license,U.S. citizenship required,OSHA 40-hour HAZWOPER,ability to lift 50 lbs,background check required.",
       "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of El Paso, TX",
-      "title": "Environmental Scientist",
-      "location": "El Paso, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/elpaso/jobs/5416779",
-      "direct_url": "https://www.governmentjobs.com/careers/elpaso/jobs/5416779",
-      "date_posted": "2026-07-22T15:57:08.000Z",
-      "description": "Bachelor's in natural/physical science, engineering, environmental studies or related plus 2 years environmental experience; valid Texas Class C driver; ability to conduct sampling, inspections, data analysis, reporting, and supervise technical staff.",
-      "salary": "$56k–$84k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -396,34 +382,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Geo-Technology Associates Inc.",
-      "title": "Environmental Scientist",
-      "location": "Laurel, Maryland, United States",
-      "url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
-      "direct_url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
-      "date_posted": "2026-07-01T16:35:29.017Z",
-      "description": "Bachelor's in environmental science/geology/engineering, 1–3 years relevant experience, Phase I and Phase II ESAs required, strong written/verbal communication, organized self-starter.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "GSI Environmental Inc.",
-      "title": "Environmental Scientist",
-      "location": "Emeryville, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
-      "salary": "$97k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Overview",
       "title": "Environmental Scientist",
       "location": "Alpharetta, Georgia, United States",
@@ -449,6 +407,34 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Geo-Technology Associates Inc.",
+      "title": "Environmental Scientist",
+      "location": "Laurel, Maryland, United States",
+      "url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
+      "direct_url": "https://jobs.workable.com/view/omS4pW63ERSdcXbj6yaxbK/environmental-scientist-in-laurel-at-geo-technology-associates-inc.",
+      "date_posted": "2026-07-01T16:35:29.017Z",
+      "description": "Bachelor's in environmental science/geology/engineering, 1–3 years relevant experience, Phase I and Phase II ESAs required, strong written/verbal communication, organized self-starter.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Environmental Scientist",
+      "location": "Emeryville, California, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
+      "salary": "$97k–$110k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -606,20 +592,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GFT.",
-      "title": "Principal Environmental Scientist",
-      "location": "Owings Mills, Maryland, United States",
-      "url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-07-23T04:00:00.000Z",
-      "description": "Bachelor's in environmental field, 15 years experience in energy licensing/transmission siting, CPCN and permit coordination, technical writing, regulatory interface with state agencies.",
-      "salary": "$140k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Freeport-McMoRan",
       "title": "Chief Environmental Scientist",
       "location": "Morenci, Arizona, United States",
@@ -631,6 +603,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GFT.",
+      "title": "Principal Environmental Scientist",
+      "location": "Owings Mills, Maryland, United States",
+      "url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-07-23T04:00:00.000Z",
+      "description": "Bachelor's in environmental field, 15 years experience in energy licensing/transmission siting, CPCN and permit coordination, technical writing, regulatory interface with state agencies.",
+      "salary": "$140k–$170k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -774,6 +760,34 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Booz Allen Hamilton",
+      "title": "Cybersecurity Risk Assessment Specialist",
+      "location": "Stennis Space Center, Mississippi, United States",
+      "url": "https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898",
+      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898",
+      "date_posted": "2026-07-28T12:00:00.000Z",
+      "description": "5+ years supporting cybersecurity accreditation/authorization in federal/classified environments, Xacta GRC experience, RMF lifecycle experience, NIST SP 800-53 knowledge, TS clearance required.",
+      "salary": "$99k–$225k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bah",
+      "title": "Cybersecurity Risk Assessment Specialist",
+      "location": "Stennis Space Center, Mississippi, United States",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
+      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "5+ years supporting RMF/authorization and Xacta GRC tooling, experience producing SSPs/POA&Ms and vulnerability-driven monitoring, knowledge of NIST SP 800-53, and Top Secret clearance eligibility.",
+      "salary": "$99k–$225k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Leonardocompany",
       "title": "ELI - Performance Analysis & Risk Assessment Manager",
       "location": "Varese or Italy or United Kingdom or Poland or United States",
@@ -886,6 +900,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Dewberry",
+      "title": "Environmental Scientist III",
+      "location": "Fairfax or Virginia Beach or Richmond",
+      "url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "date_posted": "2026-07-28T04:00:00.000Z",
+      "description": "5+ years environmental experience, B.S. in related field, ability to lead CWA permitting and NEPA, fieldwork capability, technical report writing, agency coordination.",
+      "salary": "$81k–$104k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "New Mexico Environment Department",
       "title": "Senior Environmental Scientist (NMED #22131)",
       "location": "Ruidoso, New Mexico, United States",
@@ -944,14 +972,42 @@
   ],
   "new_jobs": [
     {
-      "company": "State of Louisiana",
-      "title": "Environmental Health Scientist 1, 2, Coordinator",
-      "location": "New Orleans, Louisiana, United States",
-      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5427269",
-      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5427269",
-      "date_posted": "2026-07-28T18:11:39.000Z",
-      "description": "Bachelor's in public health/biological/physical/earth/environmental sciences or engineering; conduct exposure investigations, data analysis, reporting, public outreach; weekend/holiday screening duties ~twice monthly.",
-      "salary": "$36k–$64k/yr",
+      "company": "Booz Allen Hamilton",
+      "title": "Cybersecurity Risk Assessment Specialist",
+      "location": "Stennis Space Center, Mississippi, United States",
+      "url": "https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898",
+      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898",
+      "date_posted": "2026-07-28T12:00:00.000Z",
+      "description": "5+ years supporting cybersecurity accreditation/authorization in federal/classified environments, Xacta GRC experience, RMF lifecycle experience, NIST SP 800-53 knowledge, TS clearance required.",
+      "salary": "$99k–$225k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bah",
+      "title": "Cybersecurity Risk Assessment Specialist",
+      "location": "Stennis Space Center, Mississippi, United States",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
+      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "5+ years supporting RMF/authorization and Xacta GRC tooling, experience producing SSPs/POA&Ms and vulnerability-driven monitoring, knowledge of NIST SP 800-53, and Top Secret clearance eligibility.",
+      "salary": "$99k–$225k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Dewberry",
+      "title": "Environmental Scientist III",
+      "location": "Fairfax or Virginia Beach or Richmond",
+      "url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "date_posted": "2026-07-28T04:00:00.000Z",
+      "description": "5+ years environmental experience, B.S. in related field, ability to lead CWA permitting and NEPA, fieldwork capability, technical report writing, agency coordination.",
+      "salary": "$81k–$104k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
