@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-07-26 16:31 UTC",
-  "total": 13,
+  "scraped_at": "2026-07-28 17:04 UTC",
+  "total": 8,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Food and Drug Administration",
-      "title": "Toxicologist",
-      "location": "Silver Spring, Maryland",
-      "url": "https://www.usajobs.gov/job/877110500",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $121,785 Per year (RC 00)",
-      "ats": "USAJOBS"
-    },
     {
       "company": "Environmental Protection Agency",
       "title": "Environmental Protection Specialist",
@@ -19,15 +10,6 @@
       "url": "https://www.usajobs.gov/job/877942800",
       "date_posted": "2026-07-24",
       "salary": "Starting at $64,290 Per year (GS 9-12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "John F. Kennedy Space Center",
-      "title": "Public Notice - Environmental Protection Specialist (Direct Hire)",
-      "location": "Kennedy Space Center, Florida",
-      "url": "https://www.usajobs.gov/job/877635100",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $107,228 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -49,15 +31,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Environmental Protection Specialist",
-      "location": "Texarkana, Texas",
-      "url": "https://www.usajobs.gov/job/877134900",
-      "date_posted": "2026-07-20",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Commander, Navy Installations Command",
       "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
       "location": "San Clemente Naval Reserve Island, California",
@@ -76,15 +49,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Federal Transit Administration",
-      "title": "Supervisory Environmental Protection Specialist  - DIRECT HIRE",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/876492900",
-      "date_posted": "2026-07-14",
-      "salary": "Starting at $169,279 Per year (GS 15)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Air National Guard Units",
       "title": "FIREFIGHTER (HAZARDOUS MATERIALS TECH-BASIC LIFE SUPPORT) (Title 5)",
       "location": "Ellington AFB, Texas",
@@ -100,15 +64,6 @@
       "url": "https://www.usajobs.gov/job/877606000",
       "date_posted": "2026-07-22",
       "salary": "Starting at $70,879 Per year (GS 7-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "National Oceanic and Atmospheric Administration",
-      "title": "Supervisory Environmental Scientist",
-      "location": "Silver Spring, Maryland",
-      "url": "https://www.usajobs.gov/job/877179500",
-      "date_posted": "2026-07-21",
-      "salary": "Starting at $169,279 Per year (ZP 5)",
       "ats": "USAJOBS"
     },
     {
