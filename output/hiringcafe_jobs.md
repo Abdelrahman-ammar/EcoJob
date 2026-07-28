@@ -1,24 +1,16 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-28 03:59 UTC*
+*Last updated: 2026-07-28 18:12 UTC*
 
-**3 new role(s)** since last run · 69 total in last 30d
+**2 new role(s)** since last run · 65 total in last 30d
 
-### [Senior Environmental Scientist](https://careers-swca.icims.com/jobs/14785/senior-environmental-scientist/job?in_iframe=1) — SWCA Environmental Consultants
-- 📍 **Location:** Scarborough, Maine, United States
-- 💰 **Salary:** $93k–$121k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-27T04:00:00.000Z
-
-### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1) — Kimley-Horn
-- 📍 **Location:** Reston, Virginia, United States
+### [Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine](https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/) — University of Cincinnati: Founder of Co-op, Leader in Co-op
+- 📍 **Location:** Cincinnati, Ohio, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-30T04:00:00.000Z
+- 🕒 **Posted:** 2026-07-20T00:00:00.000Z
 
-### [Senior Environmental Scientist](https://internal-swca.icims.com/jobs/14785/senior-environmental-scientist/job?in_iframe=1) — SWCA Environmental Consultants
-- 📍 **Location:** Scarborough, Maine, United States
-- 💰 **Salary:** $93k–$121k/yr
-- **Work mode:** On-site
+### [Water Quality Environmental Scientist (Junior-Level)](https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5225852008) — Environmental Science Associates
+- 📍 **Location:** Orlando or Tampa
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-27T04:00:00.000Z
+- 🕒 **Posted:** 2026-07-15T19:39:25.000Z
