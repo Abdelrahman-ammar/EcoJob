@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 03:52 UTC",
+  "scraped_at": "2026-07-28 04:53 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "California Water Service Group (CWSG)",
@@ -58,24 +58,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Commonwealth Bank of Australia",
-      "title": "Senior Manager Financial Crime Compliance Risk Assessments",
-      "location": "Sydney, NSW, AU",
-      "url": "https://au.indeed.com/viewjob?jk=ed39f405dac0f40e",
-      "direct_url": "https://cba.wd3.myworkdayjobs.com/en-US/commbank_careers/job/Sydney-CBD-Area/Senior-Manager-Financial-Crime-Compliance-Risk-Assessments_REQ262615",
-      "company_url": "https://au.indeed.com/cmp/Commonwealth-Bank-of-Australia-9607b3c5",
-      "date_posted": "2026-07-27",
-      "description": "**Senior Manager, FCC Risk Assessments**\n\n**See yourself in our team**\n\nThe Financial Crime Compliance (FCC) team is a Risk function that supports, builds and enhances sustainable financial crime capability and operations across the Group, ensuring effective risk management and compliance with regulatory obligations.\n\n\nFCC Risk Assessments Team comprises a team of risk professionals responsible for reviewing, approval and accept of all Financial Crime Risk Assessments across the Group. The team partners with Line 1 Business and Support Units, FCC Advisory, FCC Assurance and Compliance teams to oversee Product and Channel Risk Assessments (PCRAs), Risk Control Self\\-Assessments (RCSAs), Compliance Self\\-Assessments (CSAs) and the Enterprise\\-Wide Risk Assessment (EWRA).\n\n\nRisk Assessments are at the heart of the AML/CTF Program and this role will play a key leadership position in modernising FCC Risk Assessments through the adoption of AI, automation and data\\-driven decision\\-making. The successful candidate will help shape the future\\-state risk assessment capability, drive innovation, build AI\\-enabled solutions and support the Group's AML/CTF Reform agenda to ensure risk assessment practices remain effective, scalable and aligned to regulatory expectations.\n\n\n**Do work that matters**\n\nAs the Senior Manager, FCC Risk Assessments, you will be responsible for leading and delivering financial crime risk assessment activities across the CBA Group. You will provide review, approval and acceptance over key risk assessments, support the continued enhancement of risk assessment frameworks and methodologies, and ensure alignment with Australian regulatory requirements and Group standards.\n\n\n**On any given day, you will:**\n\n* Lead and deliver Financial Crime risk assessment activities, including Product and Channel Risk Assessments (PCRAs), Risk Control Self\\-Assessments (RCSAs), Compliance Self\\-Assessments (CSAs) and the Enterprise\\-Wide Risk Assessment (EWRA).\n* Develop and continuously improve risk assessment methodologies, standard operating procedures, templates, governance processes and reporting capabilities.\n* Support the development of risk assessment pipeline management, prioritisation frameworks and management information.\n* Partner with Business and Support Units to provide guidance on financial crime risk assessments and associated control environments.\n* Work closely with FCC Advisory, Assurance and Compliance teams to support effective engagement models, clear accountabilities and consistency of risk outcomes.\n* Monitor and oversee the FCC control environment, ensuring risk assessments appropriately identify, assess and mitigate financial crime risks.\n* Analyse emerging risks, thematic issues, control gaps and risk trends to support risk\\-based decision making and continuous improvement.\n* Lead the adoption of AI, automation and data analytics capabilities to improve the efficiency, quality and timeliness of risk assessment activities.\n* Design, build and govern AI agents, digital tools and automation solutions that support risk assessments, regulatory mapping, reporting, document review and management information.\n* Drive Financial Crime transformation initiatives, including enhancements to RiskInSite, data management, reporting and risk assessment frameworks.\n* Lead or support AML/CTF Reform initiatives, including implementation of new regulatory obligations, updates to risk assessment methodologies and integration of emerging risk / threat considerations such as Proliferation Financing and Tranche 2 designated services.\n* Lead the identification, assessment and prioritisation of risk assessment trigger events, ensuring that material product, channel, regulatory, audit, assurance, independent evaluation and emerging risk developments are appropriately analysed and reflected in Financial Crime Risk Assessments, methodologies and governance processes.\n* Monitor regulatory developments, AUSTRAC guidance and industry practices to ensure risk assessment frameworks remain contemporary, compliant and fit for purpose.\n\n**We'd love to hear from people who have:**\n\n* Significant experience in Financial Crime Compliance and/or Fraud \\& Scams Risk Management or Risk Assessments within banking or financial services.\n* Strong knowledge of the AML/CTF Act, AML/CTF Rules, AUSTRAC expectations and AML/CTF Reforms, including risk assessment obligations, Proliferation Financing and Tranche 2 requirements.\n* Demonstrated experience supporting regulatory change programs, AML/CTF Reform delivery or large\\-scale compliance transformation initiatives.\n* Experience leading and challenging complex risk assessments and translating regulatory requirements into practical risk management outcomes.\n* Strong people leadership, stakeholder management and influencing skills with impact.\n* Exceptional written and verbal communication skills, including experience preparing executive\\-level papers and governance reporting.\n* Experience leveraging AI, automation, data analytics and digital technologies to improve operational efficiency and risk management outcomes.\n* Practical experience designing, building or governing AI agents, Copilot solutions, workflow automation tools or other technology\\-enabled process improvements.\n* Sound understanding of AI governance, model risk considerations and responsible use of emerging technologies within a regulated environment.\n* Experience leading strategic transformation initiatives and driving continuous improvement across risk, compliance or financial crime functions.\n* Tertiary qualifications in Commerce, Finance, Law or a related discipline, and/or relevant professional certifications such as ACAMS, CAMS\\-Audit, ICA, AFMA or CFE.\n\n**Desirable**\n\n* Experience with RiskInSite (RIS), Obligations Management, Governance Risk \\& Compliance (GRC) platforms or similar risk management systems.\n* Experience building Copilot agents, AI\\-enabled workflow solutions or data\\-driven ris",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
