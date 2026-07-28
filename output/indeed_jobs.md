@@ -1,6 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-28 20:51 UTC*
+*Last updated: 2026-07-28 22:36 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Environmental Compliance Specialist](https://www.indeed.com/viewjob?jk=1574d4c1ec99fbcd) — Luxfer Gas Cylinders
+- 📍 **Location:** Riverside, CA, US
+- 💰 **Salary:** $85k–$95k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-28
