@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-28 03:49 UTC*
+*Last updated: 2026-07-28 04:52 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Senior Technical Specialist, AI Risk Assessment](https://www.linkedin.com/jobs/view/4445151808/) — Jobgether
-- 📍 **Location:** Australia
+### [Environmental Health Compliance Officer](https://www.linkedin.com/jobs/view/4442375931/) — Metro South Health
+- 📍 **Location:** South Brisbane, Queensland, Australia
 - 🕒 **Posted:** 2026-07-28
