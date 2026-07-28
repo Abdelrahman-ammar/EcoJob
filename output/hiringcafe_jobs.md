@@ -1,16 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-28 20:14 UTC*
+*Last updated: 2026-07-28 22:02 UTC*
 
-**2 new role(s)** since last run · 66 total in last 30d
+**1 new role(s)** since last run · 67 total in last 30d
 
-### [Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine](https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/) — University of Cincinnati
-- 📍 **Location:** Cincinnati, Ohio, United States
+### [Environmental Health Scientist 1, 2, Coordinator](https://www.governmentjobs.com/careers/louisiana/jobs/5427269) — State of Louisiana
+- 📍 **Location:** New Orleans, Louisiana, United States
+- 💰 **Salary:** $36k–$64k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-20T00:00:00.000Z
-
-### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1) — Overview
-- 📍 **Location:** Alpharetta, Georgia, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-28T04:00:00.000Z
+- 🕒 **Posted:** 2026-07-28T18:11:39.000Z
