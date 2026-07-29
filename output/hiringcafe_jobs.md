@@ -1,25 +1,16 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-28 23:56 UTC*
+*Last updated: 2026-07-29 03:27 UTC*
 
-**3 new role(s)** since last run · 69 total in last 30d
+**2 new role(s)** since last run · 70 total in last 30d
 
-### [Cybersecurity Risk Assessment Specialist](https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898) — Booz Allen Hamilton
-- 📍 **Location:** Stennis Space Center, Mississippi, United States
-- 💰 **Salary:** $99k–$225k/yr
+### [Environmental Fate and Exposure Scientist](https://jobs.smartrecruiters.com/SyngentaGroup/744000140209870-environmental-fate-and-exposure-scientist) — Syngenta Group
+- 📍 **Location:** Greensboro, North Carolina, United States
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-28T11:08:04.751Z
+
+### [Environmental Scientist/Water Quality Specialist](https://ckassociates.hrmdirect.com/employment/job-opening.php?req=3773427&req_loc=1409180) — CK Associates
+- 📍 **Location:** Baton Rouge, Louisiana, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-28T12:00:00.000Z
-
-### [Cybersecurity Risk Assessment Specialist](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286) — Bah
-- 📍 **Location:** Stennis Space Center, Mississippi, United States
-- 💰 **Salary:** $99k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
-
-### [Environmental Scientist III](https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1) — Dewberry
-- 📍 **Location:** Fairfax or Virginia Beach or Richmond
-- 💰 **Salary:** $81k–$104k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-28T04:00:00.000Z
+- 🕒 **Posted:** 2026-07-28T03:00:00.000Z
