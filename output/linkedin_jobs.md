@@ -1,14 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-29 00:20 UTC*
+*Last updated: 2026-07-29 03:51 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Health Specialist I, II, III](https://www.linkedin.com/jobs/view/4445780750/) — County of Riverside
-- 📍 **Location:** Riverside County, CA
-- 💰 **Salary:** $63,546.87 - $98,363.36 Annually
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4446016248/) — Partners Personnel
+- 📍 **Location:** Fairfield, CA
+- 💰 **Salary:** $90,000.00/yr - $98,000.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Regional Inside Sales Account Manager - Eurofins Drinking Water and Wastewater West, LLC](https://www.linkedin.com/jobs/view/4446501761/) — Eurofins Environment Testing (USA)
-- 📍 **Location:** Pomona, CA
-- 💰 **Salary:** $71,000.00/yr - $82,000.00/yr
-- 🕒 **Posted:** 2026-07-28
+### [Environmental Assessment Officer](https://www.linkedin.com/jobs/view/4446533841/) — NSW Department of Planning, Housing and Infrastructure
+- 📍 **Location:** Harris Park, New South Wales, Australia
+- 💰 **Salary:** $119,329 to $134,463
+- 🕒 **Posted:** 2026-07-29
