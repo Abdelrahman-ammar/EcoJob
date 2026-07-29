@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-07-29 06:28 UTC",
+  "scraped_at": "2026-07-29 18:04 UTC",
   "total": 70,
-  "new_count": 0,
+  "new_count": 4,
   "jobs": [
-    {
-      "company": "Johnson & Johnson",
-      "title": "Principal Toxicologist",
-      "location": "Cincinnati or Raritan",
-      "url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
-      "direct_url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Advanced degree (MS or PhD) in toxicology or related field, 6+ years industry experience in medical devices, 8+ years toxicology/biocompatibility experience, ISO 10993 knowledge, regulated environment and audit support experience.",
-      "salary": "$117k–$201k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
     {
       "company": "Department of Pesticide Regulation",
       "title": "Associate Toxicologist",
@@ -26,20 +12,6 @@
       "date_posted": "2026-07-24T12:00:00.000Z",
       "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
       "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Jj",
-      "title": "Principal Toxicologist",
-      "location": "Raritan or Cincinnati",
-      "url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Principal-Toxicologist_R-087130",
-      "direct_url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Principal-Toxicologist_R-087130",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Advanced degree in toxicology, 6+ years industry medical device experience, 8–10 years toxicology/biocompatibility experience, GLP/regulatory familiarity, ISO 10993/13485/14971 knowledge, lab animal and material degradation experience.",
-      "salary": "$117k–$201k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -74,6 +46,34 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Jj",
+      "title": "Principal Toxicologist",
+      "location": "Raritan or Cincinnati",
+      "url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Principal-Toxicologist_R-087130",
+      "direct_url": "https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Principal-Toxicologist_R-087130",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Advanced degree in toxicology, 6+ years industry medical device experience, 8–10 years toxicology/biocompatibility experience, GLP/regulatory familiarity, ISO 10993/13485/14971 knowledge, lab animal and material degradation experience.",
+      "salary": "$117k–$201k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Principal Toxicologist",
+      "location": "Cincinnati or Raritan",
+      "url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
+      "direct_url": "https://www.careers.jnj.com/en/jobs/r-087130/principal-toxicologist/",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Advanced degree (MS or PhD) in toxicology or related field, 6+ years industry experience in medical devices, 8+ years toxicology/biocompatibility experience, ISO 10993 knowledge, regulated environment and audit support experience.",
+      "salary": "$117k–$201k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Medline",
       "title": "Toxicologist R&D",
       "location": "Illinois, United States",
@@ -85,20 +85,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "District of Columbia Government",
-      "title": "Dep Chief Toxicologist",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://careers.dc.gov/psc/erecruit/APPLICANT/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=32863&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.dc.gov/psc/erecruit/APPLICANT/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=32863&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-07-13T12:00:00.000Z",
-      "description": "Degree in toxicology or related biological/medical/veterinary science with substantial chemistry coursework; ABFT or ABCC certification preferred; valid driver’s license; supervisory and forensic laboratory experience; ability to perform strenuous physical tasks.",
-      "salary": "$114k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -116,17 +102,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Inotivco",
-      "title": "Predictive Toxicologist",
-      "location": "Research Triangle Park, North Carolina, United States",
-      "url": "https://inotivco.wd5.myworkdayjobs.com/ext/job/RTP-NC/Predictive-Toxicologist_JR101525",
-      "direct_url": "https://inotivco.wd5.myworkdayjobs.com/ext/job/RTP-NC/Predictive-Toxicologist_JR101525",
-      "date_posted": "2026-07-02T00:00:00.000Z",
-      "description": "Scientific writing/editing experience, strong technical writing and organizational skills, ability to evaluate statistical data, familiarity with MS Word/Excel/PowerPoint, and willingness to learn R or Python; B.S. required, M.S. preferred; 1+ to 4+ years scientific writing/editing experience.",
-      "salary": "",
+      "company": "District of Columbia Government",
+      "title": "Dep Chief Toxicologist",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://careers.dc.gov/psc/erecruit/APPLICANT/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=32863&PostingSeq=1&SiteId=1",
+      "direct_url": "https://careers.dc.gov/psc/erecruit/APPLICANT/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=32863&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-07-13T12:00:00.000Z",
+      "description": "Degree in toxicology or related biological/medical/veterinary science with substantial chemistry coursework; ABFT or ABCC certification preferred; valid driver’s license; supervisory and forensic laboratory experience; ability to perform strenuous physical tasks.",
+      "salary": "$114k–$160k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -144,14 +130,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Keurig Dr Pepper",
-      "title": "Senior Principal Toxicologist",
-      "location": "Burlington, Massachusetts, United States",
-      "url": "https://kdrp.eightfold.ai/careers/job/1305712866353",
-      "direct_url": "https://kdrp.eightfold.ai/careers/job/1305712866353",
-      "date_posted": "2026-06-29T17:54:00.000Z",
-      "description": "PhD in toxicology required, 10+ years relevant experience; DART experience preferred; recognized toxicology authority; ability to lead risk assessments, apply statistical/data science tools, and travel up to 15%.",
-      "salary": "$131k–$190k/yr",
+      "company": "Inotivco",
+      "title": "Predictive Toxicologist",
+      "location": "Research Triangle Park, North Carolina, United States",
+      "url": "https://inotivco.wd5.myworkdayjobs.com/ext/job/RTP-NC/Predictive-Toxicologist_JR101525",
+      "direct_url": "https://inotivco.wd5.myworkdayjobs.com/ext/job/RTP-NC/Predictive-Toxicologist_JR101525",
+      "date_posted": "2026-07-02T00:00:00.000Z",
+      "description": "Scientific writing/editing experience, strong technical writing and organizational skills, ability to evaluate statistical data, familiarity with MS Word/Excel/PowerPoint, and willingness to learn R or Python; B.S. required, M.S. preferred; 1+ to 4+ years scientific writing/editing experience.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -180,20 +166,6 @@
       "date_posted": "2026-07-15T00:00:00.000Z",
       "description": "PhD in toxicology/pharmacology/DMPK,10+ years pharmaceutical/biotech nonclinical development experience, CRO study management, protocol/report review, strong communication and multitasking skills.",
       "salary": "$178k–$218k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Michigan, MI",
-      "title": "Toxicologist 9-P11/12 - Hazardous Waste Program",
-      "location": "Lansing, Michigan, United States",
-      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5404665",
-      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5404665",
-      "date_posted": "2026-07-14T15:04:04.512Z",
-      "description": "Master's in toxicology or related science with specified coursework; professional experience assessing toxic substances and conducting risk assessments; must provide transcripts and application materials.",
-      "salary": "$58k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -236,6 +208,20 @@
       "date_posted": "2026-07-20T00:00:00.000Z",
       "description": "Medical degree or relevant doctorate, completed pathology residency, fellowship or ≥12 months clinical chemistry experience, Ohio medical licensure, experience with test development, method validation, and supervision of high-complexity testing.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Environmental Protection Agency",
+      "title": "Biologist/Toxicologist/Physical Scientist/Chemist",
+      "location": "Washington or Durham or Cincinnati",
+      "url": "https://www.usajobs.gov/job/878410200",
+      "direct_url": "https://www.usajobs.gov/job/878410200",
+      "date_posted": "2026-07-29T09:42:34.250Z",
+      "description": "U.S. citizen required. GS-14: 1 year specialized experience equivalent to GS-13 conducting scientific analyses for chemical risk-management under TSCA, providing technical policy expertise, and communicating scientific concepts. Relevant degree required per series and background investigation required.",
+      "salary": "$131k–$187k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -382,6 +368,34 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Maryland Department of Transportation, MD",
+      "title": "Environmental Scientist (Environmental Analyst IV)",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://www.governmentjobs.com/careers/mdotmd/jobs/5407352",
+      "direct_url": "https://www.governmentjobs.com/careers/mdotmd/jobs/5407352",
+      "date_posted": "2026-07-29T15:03:46.142Z",
+      "description": "Bachelor's in environmental or related field, six years environmental analysis or management experience, Maryland driver's license, knowledge of environmental compliance programs and EMS.",
+      "salary": "$77k–$121k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Overview",
+      "title": "Environmental Scientist",
+      "location": "Alpharetta, Georgia, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1",
+      "date_posted": "2026-07-28T04:00:00.000Z",
+      "description": "4+ years environmental experience, bachelor's degree in related field, wetland/species permitting knowledge, ecological fieldwork, technical writing, ArcGIS interest, strong communication and project management skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "GSI Environmental Inc.",
       "title": "Environmental Scientist",
       "location": "Emeryville, California, United States",
@@ -410,20 +424,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Overview",
-      "title": "Environmental Scientist",
-      "location": "Alpharetta, Georgia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1",
-      "date_posted": "2026-07-28T04:00:00.000Z",
-      "description": "4+ years environmental experience, bachelor's degree in related field, wetland/species permitting knowledge, ecological fieldwork, technical writing, ArcGIS interest, strong communication and project management skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Geo-Technology Associates Inc.",
       "title": "Environmental Scientist",
       "location": "Laurel, Maryland, United States",
@@ -438,20 +438,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pondco",
-      "title": "Environmental Scientist",
-      "location": "Peachtree Corners, Georgia, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1799",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1799",
-      "date_posted": "2026-07-22T04:00:00.000Z",
-      "description": "Bachelor's in relevant field required (MS preferred),0-2 years environmental field experience, proficiency with MS Office,GIS and CAD,valid driver’s license,teamwork and technical writing skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Timmons Group",
       "title": "Environmental Scientist",
       "location": "Raleigh, North Carolina, United States",
@@ -459,6 +445,20 @@
       "direct_url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000137694639-environmental-scientist",
       "date_posted": "2026-07-14T15:22:59.723Z",
       "description": "Bachelor's or master's in environmental science or related field (or equivalent experience), minimum 1 year experience with wetland/stream delineations, field and reporting skills, permitting knowledge, ability to travel for field work.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pondco",
+      "title": "Environmental Scientist",
+      "location": "Peachtree Corners, Georgia, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1799",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1799",
+      "date_posted": "2026-07-22T04:00:00.000Z",
+      "description": "Bachelor's in relevant field required (MS preferred),0-2 years environmental field experience, proficiency with MS Office,GIS and CAD,valid driver’s license,teamwork and technical writing skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -564,20 +564,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ri",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Providence, Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103139",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103139",
-      "date_posted": "2026-07-18T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental/physical/biological science or related field required; conduct fieldwork, inspections, data collection/analysis, and prepare technical reports; knowledge of environmental laws and regulations.",
-      "salary": "$71k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Eisholding",
       "title": "Staff Environmental Scientist",
       "location": "West Columbia or Irmo or Orangeburg or Chapin or Newberry or Aiken or Columbia or Camden or Lexington",
@@ -645,6 +631,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kentucky Energy and Environment Cabinet",
+      "title": "Environmental Scientist III",
+      "location": "Franklin County or United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80054?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80054?c=kypersonnelcabinet",
+      "date_posted": "2026-07-29T00:00:00.000Z",
+      "description": "Bachelor's in natural/biological/physical science or equivalent experience; 3 years experience in natural resources or environmental control; strong communication, organizational, and decision-making skills.",
+      "salary": "$52k–$71k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -760,20 +760,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Bah",
-      "title": "Cybersecurity Risk Assessment Specialist",
-      "location": "Stennis Space Center, Mississippi, United States",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
-      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "5+ years supporting RMF/authorization and Xacta GRC tooling, experience producing SSPs/POA&Ms and vulnerability-driven monitoring, knowledge of NIST SP 800-53, and Top Secret clearance eligibility.",
-      "salary": "$99k–$225k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Booz Allen Hamilton",
       "title": "Cybersecurity Risk Assessment Specialist",
       "location": "Stennis Space Center, Mississippi, United States",
@@ -788,17 +774,31 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Leonardocompany",
-      "title": "ELI - Performance Analysis & Risk Assessment Manager",
-      "location": "Varese or Italy or United Kingdom or Poland or United States",
-      "url": "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Varese---Cascina-Costa/ELI---Performance-Analysis---Risk-Assessment-Manager_R0030566",
-      "direct_url": "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Varese---Cascina-Costa/ELI---Performance-Analysis---Risk-Assessment-Manager_R0030566",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "Bachelor's in engineering/economics, 8+ years in project planning/control, performance analysis or risk management in complex international organizations; experience with planning/reporting tools, strong analytical, stakeholder and continuous improvement skills.",
-      "salary": "$43k–$66k/yr",
+      "company": "Bah",
+      "title": "Cybersecurity Risk Assessment Specialist",
+      "location": "Stennis Space Center, Mississippi, United States",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
+      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "5+ years supporting RMF/authorization and Xacta GRC tooling, experience producing SSPs/POA&Ms and vulnerability-driven monitoring, knowledge of NIST SP 800-53, and Top Secret clearance eligibility.",
+      "salary": "$99k–$225k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "UPMC",
+      "title": "VP, Billing, Monitoring and Risk Assessment",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://upmcjobs.taleo.net/careersection/upmc_external/jobdetail.ftl?job=7819682346&lang=en",
+      "direct_url": "https://upmcjobs.taleo.net/careersection/upmc_external/jobdetail.ftl?job=7819682346&lang=en",
+      "date_posted": "2026-07-29T12:11:15.720Z",
+      "description": "Bachelor's degree in business, law, nursing, or healthcare administration; master's degree or compliance certification; 10+ years compliance experience and 5+ years leadership; strong analytics and regulatory knowledge.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -984,5 +984,62 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Environmental Protection Agency",
+      "title": "Biologist/Toxicologist/Physical Scientist/Chemist",
+      "location": "Washington or Durham or Cincinnati",
+      "url": "https://www.usajobs.gov/job/878410200",
+      "direct_url": "https://www.usajobs.gov/job/878410200",
+      "date_posted": "2026-07-29T09:42:34.250Z",
+      "description": "U.S. citizen required. GS-14: 1 year specialized experience equivalent to GS-13 conducting scientific analyses for chemical risk-management under TSCA, providing technical policy expertise, and communicating scientific concepts. Relevant degree required per series and background investigation required.",
+      "salary": "$131k–$187k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Maryland Department of Transportation, MD",
+      "title": "Environmental Scientist (Environmental Analyst IV)",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://www.governmentjobs.com/careers/mdotmd/jobs/5407352",
+      "direct_url": "https://www.governmentjobs.com/careers/mdotmd/jobs/5407352",
+      "date_posted": "2026-07-29T15:03:46.142Z",
+      "description": "Bachelor's in environmental or related field, six years environmental analysis or management experience, Maryland driver's license, knowledge of environmental compliance programs and EMS.",
+      "salary": "$77k–$121k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kentucky Energy and Environment Cabinet",
+      "title": "Environmental Scientist III",
+      "location": "Franklin County or United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80054?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80054?c=kypersonnelcabinet",
+      "date_posted": "2026-07-29T00:00:00.000Z",
+      "description": "Bachelor's in natural/biological/physical science or equivalent experience; 3 years experience in natural resources or environmental control; strong communication, organizational, and decision-making skills.",
+      "salary": "$52k–$71k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "UPMC",
+      "title": "VP, Billing, Monitoring and Risk Assessment",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://upmcjobs.taleo.net/careersection/upmc_external/jobdetail.ftl?job=7819682346&lang=en",
+      "direct_url": "https://upmcjobs.taleo.net/careersection/upmc_external/jobdetail.ftl?job=7819682346&lang=en",
+      "date_posted": "2026-07-29T12:11:15.720Z",
+      "description": "Bachelor's degree in business, law, nursing, or healthcare administration; master's degree or compliance certification; 10+ years compliance experience and 5+ years leadership; strong analytics and regulatory knowledge.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
