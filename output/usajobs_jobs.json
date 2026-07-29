@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-28 17:04 UTC",
-  "total": 8,
+  "scraped_at": "2026-07-29 16:53 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -46,15 +46,6 @@
       "url": "https://www.usajobs.gov/job/876290000",
       "date_posted": "2026-07-16",
       "salary": "Starting at $102,246 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air National Guard Units",
-      "title": "FIREFIGHTER (HAZARDOUS MATERIALS TECH-BASIC LIFE SUPPORT) (Title 5)",
-      "location": "Ellington AFB, Texas",
-      "url": "https://www.usajobs.gov/job/877961900",
-      "date_posted": "2026-07-25",
-      "salary": "Starting at $58,193 Per year (GS 7)",
       "ats": "USAJOBS"
     },
     {
