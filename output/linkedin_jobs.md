@@ -1,14 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-29 04:56 UTC*
+*Last updated: 2026-07-29 16:50 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.linkedin.com/jobs/view/4446554228/) — Caltrans
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $4,418.00/mo - $9,321.00/mo
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4442778941/) — Triumvirate Environmental
+- 📍 **Location:** San Leandro, CA
+- 💰 **Salary:** $28 USD - $28 USD
 - 🕒 **Posted:** 2026-07-29
 
-### [Regional Inside Sales Account Manager - Eurofins Drinking Water and Wastewater West, LLC](https://www.linkedin.com/jobs/view/4446550279/) — Eurofins
-- 📍 **Location:** Pomona, CA
-- 💰 **Salary:** $71k-$82K
+### [Climate and Air Quality Attorney](https://www.linkedin.com/jobs/view/4437833718/) — California Air Resources Board
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $10,852.00/mo - $15,325.00/mo
 - 🕒 **Posted:** 2026-07-29
