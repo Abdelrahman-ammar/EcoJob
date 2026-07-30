@@ -1,9 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-07-30 17:03 UTC*
+*Last updated: 2026-07-30 17:11 UTC*
 
-**1 new role(s)** since last run · 2 total in last 24h
+**0 new role(s)** since last run · 2 total in last 24h
 
-### [Hazardous Materials / Licensed Asbestos Assessor - Perth, WA](https://au.indeed.com/viewjob?jk=7f84e3685258cb2c) — Tetra Tech
-- 📍 **Location:** Perth, WA, AU
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-07-30
+No new roles since the last run.
