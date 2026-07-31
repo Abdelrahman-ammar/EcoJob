@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-31 04:03 UTC*
+*Last updated: 2026-07-31 05:08 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [SAF Regulatory/Environmental Specialist II](https://www.linkedin.com/jobs/view/4446968476/) — Experis
-- 📍 **Location:** Corona, CA
-- 💰 **Salary:** $20 to $26
-- 🕒 **Posted:** 2026-07-31
+No new roles since the last run.
