@@ -2005,3 +2005,4 @@
 {"job_count": 5, "run_attempt": "1", "run_id": "30733330431", "timestamp": "2026-08-02T05:02:48Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "30735470152", "timestamp": "2026-08-02T06:23:54Z", "workflow": "biotech"}
 {"job_count": 60, "run_attempt": "1", "run_id": "30736024121", "timestamp": "2026-08-02T06:30:28Z", "workflow": "hiringcafe"}
+{"job_count": 1, "run_attempt": "1", "run_id": "30756138485", "timestamp": "2026-08-02T16:21:18Z", "workflow": "linkedin"}
