@@ -2013,3 +2013,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "30759134243", "timestamp": "2026-08-02T17:35:18Z", "workflow": "indeed"}
 {"job_count": 3, "run_attempt": "1", "run_id": "30759381444", "timestamp": "2026-08-02T17:40:48Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "30759597303", "timestamp": "2026-08-02T17:46:34Z", "workflow": "indeed"}
+{"job_count": 60, "run_attempt": "1", "run_id": "30760086753", "timestamp": "2026-08-02T17:59:56Z", "workflow": "hiringcafe"}
