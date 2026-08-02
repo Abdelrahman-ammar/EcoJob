@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-01 17:28 UTC",
-  "total": 7,
+  "scraped_at": "2026-08-02 17:18 UTC",
+  "total": 9,
   "new_count": 2,
   "jobs": [
     {
@@ -58,23 +58,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Mendocino",
-      "title": "Hazardous Materials Operations Specialist",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
+      "company": "Regional Government Services",
+      "title": "Air Quality Specialist I for the Feather River Air Quality Management District",
+      "location": "Yuba City, CA",
+      "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
       "date_posted": "",
-      "salary": "$68,286.40 - $82,992.00 Annually",
-      "ats": "NEOGOV"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Carlsbad, City of (CA)",
-      "title": "Environmental Specialist I",
-      "location": "Carlsbad, CA",
-      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
-      "date_posted": "",
-      "salary": "$69,721.60 - $84,822.40 Annually",
+      "salary": "$67,056.00 - $85,584.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -84,6 +73,35 @@
       "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
       "date_posted": "",
       "salary": "$68,286.40 - $82,992.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Vista",
+      "title": "Environmental Specialist I/II",
+      "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
+      "url": "https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$75,183.16 - $100,752.86 Annually",
+      "ats": "NEOGOV"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Regional Government Services",
+      "title": "Air Quality Specialist I for the Feather River Air Quality Management District",
+      "location": "Yuba City, CA",
+      "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
+      "date_posted": "",
+      "salary": "$67,056.00 - $85,584.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Vista",
+      "title": "Environmental Specialist I/II",
+      "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
+      "url": "https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$75,183.16 - $100,752.86 Annually",
       "ats": "NEOGOV"
     }
   ]

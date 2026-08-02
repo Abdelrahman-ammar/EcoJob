@@ -1,12 +1,12 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-01 17:28 UTC*
+*Last updated: 2026-08-02 17:18 UTC*
 
-**2 new role(s)** since last run · 7 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 9 total in recent GovernmentJobs postings
 
-### [Environmental Specialist I](https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i) — Carlsbad, City of (CA)
-- 📍 **Location:** Carlsbad, CA
-- 💰 **Salary:** $69,721.60 - $84,822.40 Annually
+### [Air Quality Specialist I for the Feather River Air Quality Management District](https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district) — Regional Government Services
+- 📍 **Location:** Yuba City, CA
+- 💰 **Salary:** $67,056.00 - $85,584.00 Annually
 
-### [Hazardous Materials Operations Specialist](https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist) — County of Mendocino
-- 📍 **Location:** Ukiah, CA
-- 💰 **Salary:** $68,286.40 - $82,992.00 Annually
+### [Environmental Specialist I/II](https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii) — City of Vista
+- 📍 **Location:** Vista City Hall - 200 Civic Center Drive Vista 92084, CA
+- 💰 **Salary:** $75,183.16 - $100,752.86 Annually
