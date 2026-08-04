@@ -1,6 +1,7 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-03 18:08 UTC*
+*Last updated: 2026-08-04 18:05 UTC*
 
-**0 new role(s)** since last run · 9 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 8 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [Associate Environmental Specialist (23394)](https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394) — Brevard County Board of County Commissioners
+- 📍 **Location:** Melbourne, FL
