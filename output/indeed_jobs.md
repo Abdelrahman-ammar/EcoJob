@@ -1,6 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-04 17:24 UTC*
+*Last updated: 2026-08-04 19:16 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 6 total in last 24h
 
-No new roles since the last run.
+### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=c8a0077dc487d87e) — Department Of Food & Agriculture
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $4418–$9321/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-04
