@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 19:51 UTC",
+  "scraped_at": "2026-08-07 20:37 UTC",
   "total": 62,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -872,20 +872,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "University of Cincinnati",
-      "title": "Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
-      "direct_url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Medical degree or relevant doctorate, completed pathology residency, fellowship or ≥12 months clinical chemistry experience, Ohio medical licensure, experience with test development, method validation, and supervision of high-complexity testing.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
