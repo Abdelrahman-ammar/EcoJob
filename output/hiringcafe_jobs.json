@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 00:39 UTC",
+  "scraped_at": "2026-08-07 03:48 UTC",
   "total": 63,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -886,62 +886,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Integral Consulting Inc.",
-      "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4393003",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4393003",
-      "date_posted": "2026-08-06T17:54:48.000Z",
-      "description": "Advanced degree in toxicology, pharmacology, or a related field; 1+ year of human health risk assessment and toxicology experience; scientific analysis, communication, organization, and teamwork skills.",
-      "salary": "$65k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Procter & Gamble",
-      "title": "Senior Veterinary Toxicologist – Product Safety",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
-      "salary": "$144k–$219k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Colliers Engineering & Design",
-      "title": "Environmental Scientist",
-      "location": "Mount Laurel, New Jersey, United States",
-      "url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
-      "direct_url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
-      "date_posted": "2026-08-05T23:12:09.000Z",
-      "description": "Requires 2+ years of environmental or geologic consulting experience, relevant bachelor's degree, HAZWOPER training, regulatory familiarity, communication skills, and willingness to travel for field work.",
-      "salary": "$65k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "New York State",
-      "title": "Research Scientist 1 (Water Pollution)",
-      "location": "Albany, New York, United States",
-      "url": "https://statejobsny.com/public/vacancyDetailsView.cfm?id=221289",
-      "direct_url": "https://statejobsny.com/public/vacancyDetailsView.cfm?id=221289",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor's degree in an environmental or natural resources field and two years of professional research experience. Driver's license required; field sampling, environmental data analysis, and water quality expertise preferred.",
-      "salary": "$67k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
