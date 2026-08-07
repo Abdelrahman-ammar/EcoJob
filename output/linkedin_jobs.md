@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-07 18:13 UTC*
+*Last updated: 2026-08-07 19:25 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Managing Scientist- Water Resources, Agricultural, or Nutrient Management (Ph.D.)](https://www.linkedin.com/jobs/view/4391879741/) — Exponent
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** USD $136,000.00 - USD $166,000.00 /Yr
+### [Water Quality Analyst I (50.26)](https://www.linkedin.com/jobs/view/4422460598/) — Golden State Water Company
+- 📍 **Location:** San Dimas, CA
+- 💰 **Salary:** $29.36/hr - $47.09/hr
 - 🕒 **Posted:** 2026-08-07
