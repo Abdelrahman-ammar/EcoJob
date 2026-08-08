@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08 01:20 UTC",
-  "total": 63,
+  "scraped_at": "2026-08-08 03:22 UTC",
+  "total": 64,
   "new_count": 1,
   "jobs": [
     {
@@ -214,6 +214,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Dewberry",
       "title": "Environmental Scientist",
       "location": "Panama City, Florida, United States",
@@ -256,20 +270,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist ",
-      "location": "Rockville or North America",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "date_posted": "2026-08-05T19:03:36.000Z",
-      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
-      "salary": "$45k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Hudbay",
       "title": "Environmental Scientist",
       "location": "Helvetia or Sahuarita",
@@ -278,6 +278,20 @@
       "date_posted": "2026-07-28T23:21:00.000Z",
       "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist ",
+      "location": "Rockville or North America",
+      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "date_posted": "2026-08-05T19:03:36.000Z",
+      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
+      "salary": "$45k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -888,14 +902,14 @@
   ],
   "new_jobs": [
     {
-      "company": "University of Cincinnati",
-      "title": "Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
-      "direct_url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Medical degree or relevant doctorate, completed pathology residency, fellowship or ≥12 months clinical chemistry experience, Ohio medical licensure, experience with test development, method validation, and supervision of high-complexity testing.",
-      "salary": "",
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
