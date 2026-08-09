@@ -2289,3 +2289,4 @@
 {"job_count": 3, "run_attempt": "1", "run_id": "31325566625", "timestamp": "2026-08-09T17:08:24Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "31325952987", "timestamp": "2026-08-09T17:16:49Z", "workflow": "indeed"}
 {"job_count": 61, "run_attempt": "1", "run_id": "31326475540", "timestamp": "2026-08-09T17:28:44Z", "workflow": "hiringcafe"}
+{"job_count": 0, "run_attempt": "1", "run_id": "31327324962", "timestamp": "2026-08-09T17:56:38Z", "workflow": "linkedin"}
