@@ -1,17 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-10 18:53 UTC*
+*Last updated: 2026-08-10 19:55 UTC*
 
-**2 new role(s)** since last run · 63 total in last 30d
+**1 new role(s)** since last run · 64 total in last 30d
 
-### [Toxicologist](https://caandm.bamboohr.com/careers/105) — CA&M
-- 📍 **Location:** Bethesda, Maryland, United States
-- 💰 **Salary:** $170k/yr
-- **Work mode:** On-site
-- **Job type:** Contract
-- 🕒 **Posted:** 2026-08-10T00:00:00.000Z
-
-### [Environmental Scientist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4395491) — WESTWOOD PROFESSIONAL SERVICES INC
-- 📍 **Location:** Fort Worth, Texas, United States
-- **Work mode:** On-site
+### [Senior Veterinary Toxicologist – Product Safety](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252) — Procter & Gamble
+- 📍 **Location:** Cincinnati, Ohio, United States
+- 💰 **Salary:** $144k–$219k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-10T15:56:48.000Z
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
