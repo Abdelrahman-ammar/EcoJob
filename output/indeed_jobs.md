@@ -1,10 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-11 04:57 UTC*
+*Last updated: 2026-08-11 16:26 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [Environmental Health Officer](https://au.indeed.com/viewjob?jk=50f75f4cce1d6a5a) — NSW Government
-- 📍 **Location:** Sydney Western Suburbs, NSW, AU
+### [Program Manager, Specialized Risk Assessment](https://www.indeed.com/viewjob?jk=03ffef55fb657826) — Meta
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $153k–$209k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-10
+- 🕒 **Posted:** 2026-08-09
