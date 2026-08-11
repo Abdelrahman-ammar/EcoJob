@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10 23:32 UTC",
-  "total": 65,
+  "scraped_at": "2026-08-11 01:25 UTC",
+  "total": 63,
   "new_count": 1,
   "jobs": [
     {
@@ -18,20 +18,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Integral Consulting Inc.",
-      "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4393003",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4393003",
-      "date_posted": "2026-08-06T17:54:48.000Z",
-      "description": "Advanced degree in toxicology, pharmacology, or a related field; 1+ year of human health risk assessment and toxicology experience; scientific analysis, communication, organization, and teamwork skills.",
-      "salary": "$65k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "CA&M",
       "title": "Toxicologist",
       "location": "Bethesda, Maryland, United States",
@@ -46,14 +32,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
+      "company": "Integral Consulting Inc.",
+      "title": "Toxicologist",
+      "location": "United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4393003",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4393003",
+      "date_posted": "2026-08-06T17:54:48.000Z",
+      "description": "Advanced degree in toxicology, pharmacology, or a related field; 1+ year of human health risk assessment and toxicology experience; scientific analysis, communication, organization, and teamwork skills.",
+      "salary": "$65k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -88,6 +74,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Brs",
       "title": "Genetic Toxicologist Expert",
       "location": "United States",
@@ -113,20 +113,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Procter & Gamble",
-      "title": "Senior Veterinary Toxicologist – Product Safety",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
-      "salary": "$144k–$219k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -222,6 +208,20 @@
       "date_posted": "2026-07-31T12:54:53.882Z",
       "description": "Bachelor's degree in environmental science or related field, 3+ years environmental experience in mining or regulated industries, knowledge of federal and Nevada environmental regulations, permit preparation, monitoring, and reporting.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Energy Northwest",
+      "title": "Environmental Scientist",
+      "location": "Richland, Washington, United States",
+      "url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "direct_url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental science, engineering, chemistry, biological science, or related technical field and eight years of environmental experience; regulatory, permitting, audit, and environmental program expertise required.",
+      "salary": "$126k–$190k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -816,20 +816,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Science Associates",
-      "title": "Water Quality Environmental Scientist (Junior-Level)",
-      "location": "Orlando or Tampa",
-      "url": "https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5225852008",
-      "direct_url": "https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5225852008",
-      "date_posted": "2026-07-15T19:39:25.000Z",
-      "description": "Bachelor's degree in ecology/environmental science/hydrology,2+ years professional experience,water quality and watershed data analysis,QA/QC,statistical programming (R or SAS),GIS skills,and valid driver's license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "CK Associates",
       "title": "Environmental Scientist/Water Quality Specialist",
       "location": "Baton Rouge, Louisiana, United States",
@@ -872,20 +858,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Utah Department of Environmental Quality",
       "title": "Environmental Scientist I-III",
       "location": "Salt Lake City, Utah, United States",
@@ -916,14 +888,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Environmental Research Group",
+      "company": "Energy Northwest",
       "title": "Environmental Scientist",
-      "location": "Boise or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
-      "salary": "$80k–$90k/yr",
+      "location": "Richland, Washington, United States",
+      "url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "direct_url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental science, engineering, chemistry, biological science, or related technical field and eight years of environmental experience; regulatory, permitting, audit, and environmental program expertise required.",
+      "salary": "$126k–$190k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",

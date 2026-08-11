@@ -1,11 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-10 23:32 UTC*
+*Last updated: 2026-08-11 01:25 UTC*
 
-**1 new role(s)** since last run · 65 total in last 30d
+**1 new role(s)** since last run · 63 total in last 30d
 
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
-- 📍 **Location:** Boise or United States
-- 💰 **Salary:** $80k–$90k/yr
+### [Environmental Scientist](https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255) — Energy Northwest
+- 📍 **Location:** Richland, Washington, United States
+- 💰 **Salary:** $126k–$190k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-10T00:00:00.000Z
