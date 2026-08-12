@@ -2432,3 +2432,4 @@
 {"job_count": 3, "run_attempt": "1", "run_id": "31550953534", "timestamp": "2026-08-12T00:40:26Z", "workflow": "google_jobs"}
 {"job_count": 2, "run_attempt": "1", "run_id": "31551190448", "timestamp": "2026-08-12T00:44:14Z", "workflow": "indeed"}
 {"job_count": 65, "run_attempt": "1", "run_id": "31554499150", "timestamp": "2026-08-12T01:42:58Z", "workflow": "hiringcafe"}
+{"job_count": 0, "run_attempt": "1", "run_id": "31557883595", "timestamp": "2026-08-12T02:56:20Z", "workflow": "linkedin"}
