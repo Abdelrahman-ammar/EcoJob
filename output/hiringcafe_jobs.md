@@ -1,17 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-12 20:40 UTC*
+*Last updated: 2026-08-12 21:41 UTC*
 
-**2 new role(s)** since last run · 66 total in last 30d
+**1 new role(s)** since last run · 65 total in last 30d
 
-### [Environmental Scientist](https://careers.trccompanies.com/jobs/26357?lang=en-us) — TRC Companies, Inc.
-- 📍 **Location:** Woodinville, Washington, United States
-- 💰 **Salary:** $50k–$56k/yr
-- **Work mode:** On-site
+### [Toxicologist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414585) — Integral Consulting Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $65k–$115k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T13:47:32.000Z
-
-### [Environmental Scientist](https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist) — Timmons Group
-- 📍 **Location:** Raleigh, North Carolina, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T16:27:50.408Z
+- 🕒 **Posted:** 2026-08-12T18:09:27.000Z
