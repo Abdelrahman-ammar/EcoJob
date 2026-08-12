@@ -1,10 +1,6 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-12 17:55 UTC*
+*Last updated: 2026-08-12 19:09 UTC*
 
-**1 new role(s)** since last run · 67 total in last 30d
+**0 new role(s)** since last run · 67 total in last 30d
 
-### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/gdKMuzfgJfYMXC59oMoWLp/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies) — CDR Companies
-- 📍 **Location:** State College, Pennsylvania, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T13:42:22.823Z
+No new roles since the last run.
