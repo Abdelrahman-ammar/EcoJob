@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-13 23:14 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-08-13 23:26 UTC",
+  "total": 9,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Prime Analytical Laboratories, LLC",
@@ -54,6 +54,24 @@
       "job_type": "parttime",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Environmental Science and Assessment",
+      "title": "Environmental Specialist/Wetland Scientist",
+      "location": "Portland, OR, US",
+      "url": "https://www.indeed.com/viewjob?jk=66c78f5c2b8eea8a",
+      "direct_url": "http://www.indeed.com/job/environmental-specialistwetland-scientist-66c78f5c2b8eea8a",
+      "company_url": "https://www.indeed.com/cmp/Environmental-Science-and-Assessment",
+      "date_posted": "2026-08-13",
+      "description": "ES\\&A provides natural resource assessment and environmental permitting services for municipalities, industry and private developers. We work daily with local, state, and federal regulators to address the site assessment, permitting and planning needs of our clients. ES\\&A offers specialties in wetland assessment, botany, environmental permitting and Endangered Species Act compliance. Since being established in 2000, we have completed hundreds of projects in Oregon and Washington. www.esapdx.com\n\nEnvironmental Science \\& Assessment is looking for a full\\-time experienced Environmental Specialist/Wetland Scientist who enjoys working collaboratively on a variety of natural resources projects. This individual will work primarily in a support role to senior staff on wetland or wildlife habitat documentation, including field data collection, data entry, graphic production, and online mapping research. Position is non\\-exempt hourly with schedule flexibility.\n\n*Qualifications:*\n\n* Minimum of bachelor’s degree in botany, biology, or related field\n* Minimum of 2\\-4 years of natural resource technical support (public agency experience may be included)\n* Pacific Northwest plant community knowledge\n* Experience with riparian restoration\n* Demonstrated experience in field data collection\n* Excellent organizational and verbal/written communication skills\n* Assemble, write, and edit technical reports and prepare support graphic exhibits\n\nProficiency in Microsoft Office programs\n\nFamiliar with data transfer of Trimble GPS to base surveys\n\nFamiliar with QGIS\n\n*Salary:*  Commensurate with experience. Generous benefits include 100% employer\\-covered health/vision/dental insurance for employee, paid holidays, 401k, and PTO.\n\n* Reply to this ad with resume and cover letter explaining experience pertinent to the position. No phone calls, please. Application processing will begin August 24\\.\n\nPay: From $25\\.00 per hour\n\nBenefits:\n\n* 401(k)\n* Dental insurance\n* Flexible schedule\n* Health insurance\n* Paid time off\n* Professional development assistance\n* Vision insurance\n\nEducation:\n\n* Bachelor's (Required)\n\nWillingness to travel:\n\n* 25% (Preferred)\n\nWork Location: Hybrid remote in Portland, OR 97214",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
     },
@@ -148,5 +166,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Environmental Science and Assessment",
+      "title": "Environmental Specialist/Wetland Scientist",
+      "location": "Portland, OR, US",
+      "url": "https://www.indeed.com/viewjob?jk=66c78f5c2b8eea8a",
+      "direct_url": "http://www.indeed.com/job/environmental-specialistwetland-scientist-66c78f5c2b8eea8a",
+      "company_url": "https://www.indeed.com/cmp/Environmental-Science-and-Assessment",
+      "date_posted": "2026-08-13",
+      "description": "ES\\&A provides natural resource assessment and environmental permitting services for municipalities, industry and private developers. We work daily with local, state, and federal regulators to address the site assessment, permitting and planning needs of our clients. ES\\&A offers specialties in wetland assessment, botany, environmental permitting and Endangered Species Act compliance. Since being established in 2000, we have completed hundreds of projects in Oregon and Washington. www.esapdx.com\n\nEnvironmental Science \\& Assessment is looking for a full\\-time experienced Environmental Specialist/Wetland Scientist who enjoys working collaboratively on a variety of natural resources projects. This individual will work primarily in a support role to senior staff on wetland or wildlife habitat documentation, including field data collection, data entry, graphic production, and online mapping research. Position is non\\-exempt hourly with schedule flexibility.\n\n*Qualifications:*\n\n* Minimum of bachelor’s degree in botany, biology, or related field\n* Minimum of 2\\-4 years of natural resource technical support (public agency experience may be included)\n* Pacific Northwest plant community knowledge\n* Experience with riparian restoration\n* Demonstrated experience in field data collection\n* Excellent organizational and verbal/written communication skills\n* Assemble, write, and edit technical reports and prepare support graphic exhibits\n\nProficiency in Microsoft Office programs\n\nFamiliar with data transfer of Trimble GPS to base surveys\n\nFamiliar with QGIS\n\n*Salary:*  Commensurate with experience. Generous benefits include 100% employer\\-covered health/vision/dental insurance for employee, paid holidays, 401k, and PTO.\n\n* Reply to this ad with resume and cover letter explaining experience pertinent to the position. No phone calls, please. Application processing will begin August 24\\.\n\nPay: From $25\\.00 per hour\n\nBenefits:\n\n* 401(k)\n* Dental insurance\n* Flexible schedule\n* Health insurance\n* Paid time off\n* Professional development assistance\n* Vision insurance\n\nEducation:\n\n* Bachelor's (Required)\n\nWillingness to travel:\n\n* 25% (Preferred)\n\nWork Location: Hybrid remote in Portland, OR 97214",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
