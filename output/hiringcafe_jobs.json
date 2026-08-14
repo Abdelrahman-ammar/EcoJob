@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14 21:22 UTC",
+  "scraped_at": "2026-08-14 22:19 UTC",
   "total": 69,
   "new_count": 1,
   "jobs": [
@@ -60,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "MPHI",
       "title": "Toxicologist (4947)",
       "location": "Lansing, Michigan, United States",
@@ -102,6 +88,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Brs",
       "title": "Genetic Toxicologist Expert",
       "location": "United States",
@@ -110,20 +110,6 @@
       "date_posted": "2026-07-21T05:00:00.000Z",
       "description": "Bachelor's degree required (Masters/PhD preferred),5+ years relevant experience, supervisory ability, expertise in experimental design, literature review, and regulatory scientific guidance.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
-      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
-      "salary": "$72k–$113k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -141,6 +127,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
+      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
+      "salary": "$72k–$113k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -368,6 +368,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Penncolor",
+      "title": "Environmental Scientist",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
+      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "AECOM",
       "title": "Environmental Scientist",
       "location": "Arlington or Washington",
@@ -586,20 +600,6 @@
       "date_posted": "2026-07-27T05:00:00.000Z",
       "description": "Conduct asbestos and lead surveys, collect environmental samples, prepare technical reports; requires bachelor\\u0002s or equivalent, 1+ years environmental consulting experience, required accreditations for SC/NC, valid driver license.",
       "salary": "$60k–$70k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Atlas Technical Consultants",
-      "title": "Environmental Scientist 1",
-      "location": "Redmond or Bellingham",
-      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430647",
-      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430647",
-      "date_posted": "2026-08-10T03:00:00.000Z",
-      "description": "Bachelor's degree in a related environmental field, 0–5 years' experience, valid driver's license, fieldwork ability, technical reporting skills, and proficiency with Excel, Bluebeam, and GIS.",
-      "salary": "$62k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -900,6 +900,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Atlas Technical Consultants",
+      "title": "Environmental Scientist 1",
+      "location": "Bellingham, Washington, United States",
+      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "date_posted": "2026-08-10T03:00:00.000Z",
+      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
+      "salary": "$62k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Wsc",
       "title": "Environmental Scientist I",
       "location": "Des Moines, Iowa, United States",
@@ -954,31 +968,17 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "State College, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/gdKMuzfgJfYMXC59oMoWLp/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/gdKMuzfgJfYMXC59oMoWLp/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "date_posted": "2026-08-12T13:42:22.823Z",
-      "description": "Requires 5+ years of environmental experience, a B.S. in environmental science, ecology, biology, or related field, wetland delineation, permitting, GPS, regulatory, technical writing, and driving experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Kimley-Horn",
+      "company": "Penncolor",
       "title": "Environmental Scientist",
-      "location": "Jupiter, Florida, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-08-14T04:00:00.000Z",
-      "description": "6+ years of environmental experience, wetland and species permitting knowledge, ecological fieldwork, technical report writing, and a degree in environmental science or a related field. ArcGIS knowledge is desired.",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
+      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
