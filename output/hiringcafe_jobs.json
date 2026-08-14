@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14 20:27 UTC",
+  "scraped_at": "2026-08-14 21:22 UTC",
   "total": 69,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -116,20 +116,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Procter & Gamble",
-      "title": "Senior Veterinary Toxicologist – Product Safety",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
-      "salary": "$144k–$219k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
       "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
       "location": "Baltimore, Maryland, United States",
@@ -141,6 +127,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Procter & Gamble",
+      "title": "Senior Veterinary Toxicologist – Product Safety",
+      "location": "Cincinnati, Ohio, United States",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
+      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
+      "salary": "$144k–$219k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -270,6 +270,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Jupiter, Florida, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-08-14T04:00:00.000Z",
+      "description": "6+ years of environmental experience, wetland and species permitting knowledge, ecological fieldwork, technical report writing, and a degree in environmental science or a related field. ArcGIS knowledge is desired.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Mott MacDonald",
       "title": "Environmental Scientist",
       "location": "Los Angeles, California, United States",
@@ -348,20 +362,6 @@
       "date_posted": "2026-08-05T19:03:36.000Z",
       "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
       "salary": "$45k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Penncolor",
-      "title": "Environmental Scientist",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
-      "direct_url": "https://penncolor.wd5.myworkdayjobs.com/penn-environmental-remediation/job/Pittsburgh-PA/Environmental-Scientist_JR-821",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -970,5 +970,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Jupiter, Florida, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-08-14T04:00:00.000Z",
+      "description": "6+ years of environmental experience, wetland and species permitting knowledge, ecological fieldwork, technical report writing, and a degree in environmental science or a related field. ArcGIS knowledge is desired.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
