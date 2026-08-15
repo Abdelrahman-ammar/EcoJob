@@ -1,10 +1,18 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-15 03:16 UTC*
+*Last updated: 2026-08-15 03:25 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-### [Early Career Environmental Scientist](https://www.indeed.com/viewjob?jk=a1852a89fa3029f5) — WSP
-- 📍 **Location:** Vancouver, WA, US
-- 💰 **Salary:** $55k–$83k/yr
+### [Sr. Scientist II - Toxicology - Onsite in Aliso Viejo, CA](https://www.indeed.com/viewjob?jk=a04cb513d4bc85c7) — Glaukos
+- 📍 **Location:** Aliso Viejo, CA, US
+- 💰 **Salary:** $118k–$148k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-14
+
+### [Sr. Scientist II - Toxicology - Onsite in Aliso Viejo, CA](https://www.indeed.com/viewjob?jk=7d4aad6a066401fb) — Glaukos
+- 📍 **Location:** Aliso Viejo, CA, US
+- 💰 **Salary:** $118k–$148k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-14
