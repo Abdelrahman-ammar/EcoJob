@@ -1,11 +1,6 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-16 18:23 UTC*
+*Last updated: 2026-08-16 19:19 UTC*
 
-**1 new role(s)** since last run · 72 total in last 30d
+**0 new role(s)** since last run · 72 total in last 30d
 
-### [Mid-to Senior-level Scientist, Ecological Risk Assessment and Ecotoxicology](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453) — Integral Consulting Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $65k–$115k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-21T18:25:00.000Z
+No new roles since the last run.
