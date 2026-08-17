@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-16 23:16 UTC",
-  "total": 70,
+  "scraped_at": "2026-08-17 01:05 UTC",
+  "total": 69,
   "new_count": 0,
   "jobs": [
     {
@@ -60,6 +60,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "MPHI",
       "title": "Toxicologist (4947)",
       "location": "Lansing, Michigan, United States",
@@ -88,20 +102,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Brs",
       "title": "Genetic Toxicologist Expert",
       "location": "United States",
@@ -110,6 +110,20 @@
       "date_posted": "2026-07-21T05:00:00.000Z",
       "description": "Bachelor's degree required (Masters/PhD preferred),5+ years relevant experience, supervisory ability, expertise in experimental design, literature review, and regulatory scientific guidance.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
+      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
+      "salary": "$72k–$113k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -127,20 +141,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
-      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
-      "salary": "$72k–$113k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -746,20 +746,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Integral Consulting Inc.",
-      "title": "Mid-to Senior-level Scientist, Ecological Risk Assessment and Ecotoxicology",
-      "location": "United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
-      "date_posted": "2026-07-21T18:25:00.000Z",
-      "description": "M.S. or Ph.D. in environmental sciences or related field, 5+ years ecological risk assessment/ecotoxicology experience, strong technical writing, quantitative/statistical skills, ProUCL or R proficiency, project management experience.",
-      "salary": "$65k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Syngenta Group",
       "title": "Environmental Fate and Exposure Scientist",
       "location": "Greensboro, North Carolina, United States",
@@ -886,20 +872,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Atlas Technical Consultants",
-      "title": "Environmental Scientist 1",
-      "location": "Bellingham, Washington, United States",
-      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
-      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
-      "date_posted": "2026-08-10T03:00:00.000Z",
-      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
-      "salary": "$62k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Salt River Project",
       "title": "Senior Environmental Scientist",
       "location": "Casa Grande, Arizona, United States",
@@ -908,6 +880,20 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Atlas Technical Consultants",
+      "title": "Environmental Scientist 1",
+      "location": "Bellingham, Washington, United States",
+      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "date_posted": "2026-08-10T03:00:00.000Z",
+      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
+      "salary": "$62k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
