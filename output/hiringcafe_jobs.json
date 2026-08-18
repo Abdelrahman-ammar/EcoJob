@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 21:20 UTC",
+  "scraped_at": "2026-08-18 22:19 UTC",
   "total": 72,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -1012,34 +1012,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Barr",
-      "title": "Environmental Toxicologist – Senior Level (Hybrid)",
-      "location": "Seattle or Denver",
-      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
-      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Master’s degree in a related environmental field, 8+ years of relevant experience, advanced toxicology knowledge, Microsoft Office Suite proficiency, valid driver’s license, and unrestricted US work authorization.",
-      "salary": "$95k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Bayer",
-      "title": "Principle Scientist - Regulatory Toxicology",
-      "location": "Chesterfield, Missouri, United States",
-      "url": "https://talent.bayer.com/careers/job/562949978354135",
-      "direct_url": "https://talent.bayer.com/careers/job/562949978354135",
-      "date_posted": "2026-08-18T16:28:47.000Z",
-      "description": "MS in toxicology, environmental health, exposure science, pharmacology, chemistry, biomedical science, or related field; agrochemical regulatory toxicology experience, strong data science, communication, organization, and strategic leadership skills.",
-      "salary": "$115k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
