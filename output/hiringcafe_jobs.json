@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 02:54 UTC",
-  "total": 71,
-  "new_count": 1,
+  "scraped_at": "2026-08-18 03:42 UTC",
+  "total": 70,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -886,20 +886,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Salt River Project",
-      "title": "Senior Environmental Scientist",
-      "location": "Casa Grande, Arizona, United States",
-      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Atlas Technical Consultants",
       "title": "Environmental Scientist 1",
       "location": "Bellingham, Washington, United States",
@@ -908,6 +894,20 @@
       "date_posted": "2026-08-10T03:00:00.000Z",
       "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
       "salary": "$62k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Salt River Project",
+      "title": "Senior Environmental Scientist",
+      "location": "Casa Grande, Arizona, United States",
+      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
+      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -982,36 +982,7 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "AtkinsRéalis",
-      "title": "Senior Environmental Scientist",
-      "location": "Tampa, Florida, United States",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Senior-Environmental-Scientist_R-160679",
-      "direct_url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Senior-Environmental-Scientist_R-160679",
-      "date_posted": "2026-07-29T00:00:00.000Z",
-      "description": "Bachelor's in environmental or natural sciences required; 10+ years experience (7+ with Master's); FWC gopher tortoise agent or wildlife permit preferred; Microsoft Office and GIS experience preferred; proposal and permit preparation experience.",
-      "salary": "$120k–$145k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
