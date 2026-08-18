@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 17:24 UTC",
-  "total": 71,
-  "new_count": 4,
+  "scraped_at": "2026-08-18 18:33 UTC",
+  "total": 70,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -12,20 +12,6 @@
       "date_posted": "2026-07-31T00:00:00.000Z",
       "description": "Board-certified toxicologist with expertise in urine and oral fluid drug-test interpretation, expert testimony experience, strong communication, and training ability.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Enhesa",
-      "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "date_posted": "2026-08-13T16:55:41.000Z",
-      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
-      "salary": "$90k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -60,17 +46,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
+      "company": "Enhesa",
+      "title": "Toxicologist",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
+      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
+      "date_posted": "2026-08-13T16:55:41.000Z",
+      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
+      "salary": "$90k–$115k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -102,6 +88,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Brs",
       "title": "Genetic Toxicologist Expert",
       "location": "United States",
@@ -110,6 +110,20 @@
       "date_posted": "2026-07-21T05:00:00.000Z",
       "description": "Bachelor's degree required (Masters/PhD preferred),5+ years relevant experience, supervisory ability, expertise in experimental design, literature review, and regulatory scientific guidance.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
+      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
+      "salary": "$72k–$113k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -127,20 +141,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
-      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
-      "salary": "$72k–$113k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -676,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Sarpy County",
-      "title": "INTERNAL POSTING: Risk Assessment & Compliance Coordinator",
-      "location": "Papillion, Nebraska, United States",
-      "url": "https://www.governmentjobs.com/careers/sarpycountyne/jobs/5446605",
-      "direct_url": "https://www.governmentjobs.com/careers/sarpycountyne/jobs/5446605",
-      "date_posted": "2026-08-12T23:41:14.000Z",
-      "description": "Bachelor's degree in public or business administration, criminal justice, or related field; 3 years' compliance, risk, audit, investigation, or quality improvement experience; valid driver's license.",
-      "salary": "$82k–$99k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Morgan Stanley",
       "title": "Wealth Management Operational Risk - Non-Financial Risk Assessment Assistant Vice President",
       "location": "Baltimore, Maryland, United States",
@@ -970,20 +956,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ddcdine",
-      "title": "Environmental Scientist IV",
-      "location": "Greenbelt, Maryland, United States",
-      "url": "https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-IV_JR100270",
-      "direct_url": "https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-IV_JR100270",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "8–12 years environmental compliance experience, bachelor's degree required (master's preferred), 40-hour HAZWOPER required, CHMM/REM/PE preferred, able to obtain NASA PIV badge.",
-      "salary": "$90k–$105k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Rhode Island",
       "title": "ENVIRONMENTAL SCIENTIST IV",
       "location": "Providence, Rhode Island, United States",
@@ -996,50 +968,6 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Calista Brice",
-      "title": "Environmental Scientist II",
-      "location": "Anchorage or Fairbanks or Salt Lake City or Grand Junction",
-      "url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Grand-Junction-CO/Environmental-Scientist-II_JR109628",
-      "direct_url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Grand-Junction-CO/Environmental-Scientist-II_JR109628",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in physical or environmental science, 5–10 years of environmental project experience, environmental regulations knowledge, driver's license, and ability to pass drug and background screening.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "TRC Companies, Inc.",
-      "title": "Environmental Scientist I",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://careers.trccompanies.com/jobs/26597?lang=en-us",
-      "direct_url": "https://careers.trccompanies.com/jobs/26597?lang=en-us",
-      "date_posted": "2026-08-17T15:04:32.000Z",
-      "description": "Bachelor's degree in geology, environmental science, or related field; 1–5 years of environmental consulting experience; 40-hour HAZWOPER; valid driver's license; strong writing, analysis, QA/QC, and project management skills.",
-      "salary": "$52k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     },
     {
       "company": "Ddcdine",
@@ -1055,5 +983,6 @@
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
-  ]
+  ],
+  "new_jobs": []
 }
