@@ -1,24 +1,6 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-19 03:48 UTC*
+*Last updated: 2026-08-19 04:34 UTC*
 
-**3 new role(s)** since last run · 73 total in last 30d
+**0 new role(s)** since last run · 73 total in last 30d
 
-### [Toxicologist II](https://inotivco.wd5.myworkdayjobs.com/ext/job/Gaithersburg-MD/Toxicologist-II_JR101715) — Inotivco
-- 📍 **Location:** Gaithersburg, Maryland, United States
-- 💰 **Salary:** $80k–$106k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-18T00:00:00.000Z
-
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
-- 📍 **Location:** Denver or United States
-- 💰 **Salary:** $80k–$90k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
-
-### [ENVIRONMENTAL SCIENTIST IV](https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-IV_JR103657) — State of Rhode Island
-- 📍 **Location:** Providence, Rhode Island, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-15T00:00:00.000Z
+No new roles since the last run.
