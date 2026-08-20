@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 19:25 UTC",
+  "scraped_at": "2026-08-20 19:59 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Advantmed",
@@ -60,20 +60,5 @@
       "ats": "GoogleJobs"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Advantmed",
-      "title": "In-Home Nurse Practitioner — Flexible Part-Time Risk Assessments",
-      "location": "Ontario, CA",
-      "url": "https://www.learn4good.com/jobs/ontario/california/healthcare/5373319133/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "direct_url": "https://www.learn4good.com/jobs/ontario/california/healthcare/5373319133/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "date_posted": "2026-08-20",
-      "description": "A leading healthcare provider in Riverside, CA is seeking a compassionate, certified Nurse Practitioner for part-time in-home wellness risk adjustment assessments. The role involves engaging with Medicare members to assess their health needs, ensuring accurate coding for value-based care, and fostering trust through empathetic communication. This position offers flexible scheduling and competitive compensation, aimed at individuals looking to balance other priorities while making a difference in patients' lives. #J-18808-Ljbffr\nResponsibilities\nThe role involves engaging with Medicare members to assess their health needs, ensuring accurate coding for value-based care, and fostering trust through empathetic communication\nThis position offers flexible scheduling and competitive compensation, aimed at individuals looking to balance other priorities while making a difference in patients' lives",
-      "salary": "113,652–161,868 a year",
-      "job_type": "Part-time",
-      "is_remote": null,
-      "work_arrangement": "",
-      "ats": "GoogleJobs"
-    }
-  ]
+  "new_jobs": []
 }
