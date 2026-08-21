@@ -1,6 +1,9 @@
 # 🔎 Google Jobs — Environmental / Toxicology Roles
-*Last updated: 2026-08-20 23:56 UTC*
+*Last updated: 2026-08-21 02:15 UTC*
 
-**0 new role(s)** since last run · 5 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-No new roles since the last run.
+### [Staff Environmental Scientist 1](https://jobs.womenforhire.com/job/usa/huntington-beach-ca/staff-environmental-scientist-1-037735/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Haley & Aldrich
+- 📍 **Location:** Huntington Beach, CA
+- **Job type:** Full-time
+- 🕒 **Posted:** 2026-08-21
