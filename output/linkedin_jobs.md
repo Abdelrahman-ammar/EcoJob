@@ -1,18 +1,32 @@
-# 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-22 15:46 UTC*
+# 🔥 LinkedIn — Egypt Finance Roles
+*Last updated: 2026-08-22 18:41 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438895336/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
-- 🕒 **Posted:** 2026-08-22
+### [Senior Credit Analyst - QNB Factoring](https://www.linkedin.com/jobs/view/4455687454/) — QNB Egypt
+- 📍 **Location:** Cairo, Egypt
+- 🕒 **Posted:** 2026-08-20
 
-### [Construction Associate Environmental Specialist- Solar](https://www.linkedin.com/jobs/view/4438830542/) — Mortenson
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $73,800 - $92,300
-- 🕒 **Posted:** 2026-08-22
+### [SME Credit Analyst](https://www.linkedin.com/jobs/view/4454977523/) — Fawry MSME Finance
+- 📍 **Location:** Cairo, Cairo, Egypt
+- 🕒 **Posted:** 2026-08-19
 
-### [Senior / Principal Sediment Remediation Practitioner](https://www.linkedin.com/jobs/view/4401115497/) — Geosyntec Consultants
-- 📍 **Location:** Portland, OR
-- 🕒 **Posted:** 2026-08-22
+### [Credit Analyst](https://www.linkedin.com/jobs/view/4451368042/) — FlapKap
+- 📍 **Location:** Qesm El Maadi, Cairo, Egypt
+- 🕒 **Posted:** 2026-08-09
+
+### [Credit Analyst - Large Corporate](https://www.linkedin.com/jobs/view/4451327928/) — بنك التعمير والإسكان HD Bank
+- 📍 **Location:** Giza, Al Jizah, Egypt
+- 🕒 **Posted:** 2026-08-09
+
+### [Retail Credit Analyst](https://www.linkedin.com/jobs/view/4442364372/) — First Abu Dhabi Bank Misr (FABMISR)
+- 📍 **Location:** New Cairo, Cairo, Egypt
+- 🕒 **Posted:** 2026-08-02
+
+### [Investment Analyst Supervisor](https://www.linkedin.com/jobs/view/4447562998/) — Talaat Moustafa Group
+- 📍 **Location:** Giza, Al Jizah, Egypt
+- 🕒 **Posted:** 2026-07-31
+
+### [Portfolio Manager - Limitless Naturals](https://www.linkedin.com/jobs/view/4445379739/) — Limitless Naturals
+- 📍 **Location:** Cairo, Cairo, Egypt
+- 🕒 **Posted:** 2026-07-26
