@@ -1,13 +1,18 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-22 03:18 UTC*
+*Last updated: 2026-08-22 15:46 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Director, Toxicology](https://www.linkedin.com/jobs/view/4456605832/) — Revolution Medicines
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $244,000 - $305,000 USD
+### [Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4438895336/) — Jacobs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $74,700.00/yr - $112,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454308516/) — Recology
+### [Construction Associate Environmental Specialist- Solar](https://www.linkedin.com/jobs/view/4438830542/) — Mortenson
 - 📍 **Location:** California, United States
+- 💰 **Salary:** $73,800 - $92,300
+- 🕒 **Posted:** 2026-08-22
+
+### [Senior / Principal Sediment Remediation Practitioner](https://www.linkedin.com/jobs/view/4401115497/) — Geosyntec Consultants
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-08-22
