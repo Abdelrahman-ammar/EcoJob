@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Job Triage — Environmental / Toxicology (California)</title>
+<title>Job Triage — Egypt Finance</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
-<meta name="theme-color" content="#0a0a0a">
+<meta name="theme-color" content="#0b0e14">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Job Triage">
@@ -24,28 +24,28 @@
 <style>
   :root {
     color-scheme: dark;
-    --bg: #0a0a0a;
-    --panel: #161212;
-    --ink: #ededed;
-    --muted: #9a9a9a;
-    --line: #2a2424;
+    --bg: #0b0e14;
+    --panel: #131923;
+    --ink: #edf1f7;
+    --muted: #8b96a5;
+    --line: #232b38;
     --linkedin: #60a5fa;
     --priority: #34d399;
-    --indeed: #a78bfa;
+    --indeed: #38bdf8;
     --glassdoor: #4ade80;
     --ziprecruiter: #fb923c;
     --googlejobs: #93c5fd;
     --hiringcafe: #facc15;
-    --accent: #ef4444;
-    --accent-soft: rgba(239,68,68,0.20);
-    --pill-bg: #1f1b1b;
-    --pill-active: #ef4444;
+    --accent: #3b82f6;
+    --accent-soft: rgba(59,130,246,0.20);
+    --pill-bg: #1a2130;
+    --pill-active: #3b82f6;
     --pill-active-ink: #ffffff;
     --shadow: 0 1px 2px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.35);
-    --tool-bg: #120f0f;
-    --input-bg: #0f0d0d;
-    --bulk-bg: rgba(22,18,18,.97);
-    --map-bg: #101010;
+    --tool-bg: #101623;
+    --input-bg: #0e131d;
+    --bulk-bg: rgba(19,25,35,.97);
+    --map-bg: #101623;
     --save: #f59e0b;
     --applied: #22c55e;
     --interview: #38bdf8;
@@ -54,25 +54,25 @@
   }
   :root[data-theme="light"] {
     color-scheme: light;
-    --bg: #f7f8fb;
+    --bg: #f5f7fb;
     --panel: #ffffff;
-    --ink: #171717;
-    --muted: #5c6470;
-    --line: #dfe4ec;
+    --ink: #141a24;
+    --muted: #5c6b7d;
+    --line: #e1e7f0;
     --linkedin: #2563eb;
     --priority: #047857;
-    --indeed: #6d28d9;
+    --indeed: #0284c7;
     --glassdoor: #15803d;
     --ziprecruiter: #c2410c;
     --googlejobs: #1d4ed8;
     --hiringcafe: #a16207;
-    --accent: #dc2626;
-    --accent-soft: rgba(220,38,38,0.14);
-    --pill-bg: #eef2f7;
-    --pill-active: #dc2626;
+    --accent: #2563eb;
+    --accent-soft: rgba(37,99,235,0.14);
+    --pill-bg: #eaf0fa;
+    --pill-active: #2563eb;
     --pill-active-ink: #ffffff;
     --shadow: 0 1px 2px rgba(15,23,42,0.08), 0 2px 12px rgba(15,23,42,0.08);
-    --tool-bg: #f8fafc;
+    --tool-bg: #f6f9fc;
     --input-bg: #ffffff;
     --bulk-bg: rgba(255,255,255,.97);
     --map-bg: #eef3f8;
@@ -84,7 +84,16 @@
     line-height: 1.45; -webkit-font-smoothing: antialiased; }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
-  .wrap { max-width: 1180px; margin: 0 auto; padding: 28px 24px 64px; }
+  .wrap {
+    max-width: 1560px; margin: 0 auto; padding: 28px 24px 64px;
+    display: grid; grid-template-columns: 320px minmax(0, 1fr);
+    grid-template-areas: "header header" "sidebar main" "footer footer";
+    gap: 8px 24px;
+  }
+  header { grid-area: header; }
+  .sidebar { grid-area: sidebar; min-width: 0; }
+  .main-panel { grid-area: main; min-width: 0; }
+  .about-tool { grid-area: footer; }
 
   header { display: flex; align-items: baseline; gap: 16px; margin-bottom: 4px; flex-wrap: wrap; }
   h1 { font-size: 26px; margin: 0; letter-spacing: -0.01em; }
@@ -101,7 +110,7 @@
   .theme-toggle button.on { background: var(--panel); color: var(--ink); box-shadow: var(--shadow); }
 
   /* KPI cards */
-  .kpis { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; margin: 20px 0 18px; }
+  .kpis { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 20px 0 18px; }
   .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 14px 16px; box-shadow: var(--shadow); }
   .kpi .num { font-size: 26px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.1; }
@@ -112,21 +121,20 @@
   .kpi.interview .num { color: var(--interview); }
 
   /* Charts row */
-  .charts { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  .charts { display: grid; grid-template-columns: 1fr;
     gap: 12px; margin-bottom: 18px; align-items: stretch; }
   .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 14px 16px; box-shadow: var(--shadow); }
   .card h3 { margin: 0 0 10px 0; font-size: 12px; text-transform: uppercase;
     letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
-  .chart-salary, .chart-map { min-height: 372px; }
-  .toolkit { display: flex; gap: 14px; align-items: stretch; justify-content: space-between;
+  .toolkit { display: flex; flex-direction: column; gap: 10px; align-items: stretch;
     margin: -2px 0 18px; padding: 12px 14px; background: var(--panel);
     border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
   .toolkit-head { min-width: 150px; }
   .toolkit-head h2 { margin: 0; font-size: 12px; text-transform: uppercase;
     letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
   .toolkit-head p { margin: 4px 0 0; color: var(--muted); font-size: 12px; }
-  .toolgrid { display: grid; grid-template-columns: repeat(2, minmax(220px, 1fr));
+  .toolgrid { display: grid; grid-template-columns: 1fr;
     gap: 8px; flex: 1; }
   .toollink { display: block; min-height: 72px; padding: 10px 12px;
     border: 1px solid var(--line); border-radius: 8px; color: var(--ink);
@@ -141,7 +149,7 @@
     white-space: nowrap; }
   .bar { background: var(--pill-bg); border-radius: 3px; height: 10px; overflow: hidden; }
   .bar > span { display: block; height: 100%; border-radius: 3px;
-    background: linear-gradient(90deg, #ef4444, #f43f5e); }
+    background: linear-gradient(90deg, #3b82f6, #60a5fa); }
   .barrow .count { font-variant-numeric: tabular-nums; color: var(--muted);
     text-align: right; font-size: 12px; }
 
@@ -192,10 +200,6 @@
   .src.ziprecruiter { background: rgba(251,146,60,0.14); color: var(--ziprecruiter); }
   .src.googlejobs { background: rgba(147,197,253,0.14); color: var(--googlejobs); }
   .src.hiringcafe { background: rgba(250,204,21,0.14); color: var(--hiringcafe); }
-  .tag { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
-    background: var(--pill-bg); color: var(--muted); margin-right: 4px; }
-  .tag.role { color: var(--ink); }
-
   .actions { display: flex; gap: 4px; align-items: center; }
   .act { background: transparent; border: 1px solid var(--line); border-radius: 6px;
     padding: 4px 8px; font-size: 11px; cursor: pointer; color: var(--muted);
@@ -218,31 +222,12 @@
   .note-row { display: flex; align-items: flex-start; gap: 6px; }
   .note-row .note-input { flex: 1; }
 
-  /* ---- Sector badge colors ---- */
-  .tag.sector-government  { background: rgba(34,197,94,0.13);  color: #4ade80; }
-  .tag.sector-academic    { background: rgba(59,130,246,0.15); color: #60a5fa; }
-  .tag.sector-non-profit  { background: rgba(234,179,8,0.15);  color: #fbbf24; }
-  .tag.sector-consulting  { background: rgba(249,115,22,0.15); color: #fb923c; }
-  .tag.sector-industry    { background: rgba(148,163,184,0.15);color: #94a3b8; }
-  :root[data-theme="light"] .tag.sector-government { color: #15803d; }
-  :root[data-theme="light"] .tag.sector-academic   { color: #1d4ed8; }
-  :root[data-theme="light"] .tag.sector-non-profit { color: #a16207; }
-  :root[data-theme="light"] .tag.sector-consulting { color: #c2410c; }
-  :root[data-theme="light"] .tag.sector-industry   { color: #475569; }
-
   /* ---- Score floor filter ---- */
   .score-ctl { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .score-ctl .rng { display: flex; align-items: center; gap: 6px; }
   .score-ctl input[type=range] { width: 120px; accent-color: var(--accent); }
   .score-ctl .scoreval { font-variant-numeric: tabular-nums; color: var(--ink); font-size: 12px; min-width: 70px; }
   .score-ctl label { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
-
-  /* ---- Manual star rating (1–5) ---- */
-  .star-rating { display: inline-flex; gap: 1px; flex-shrink: 0; padding-top: 7px; }
-  .star-rating button { background: none; border: none; cursor: pointer; color: var(--muted);
-    font-size: 16px; padding: 0 1px; line-height: 1; }
-  .star-rating button.on { color: #f59e0b; }
-  .star-rating button:hover { color: #f59e0b; }
 
   /* ---- Per-job event timeline ---- */
   .tl-wrap { margin-top: 7px; border-top: 1px solid var(--line); padding-top: 6px; }
@@ -302,7 +287,11 @@
 
   /* Mobile (iPhone 16 Pro + Chrome / iOS Safari WebKit) */
   @media (max-width: 760px) {
-    .wrap { padding: 16px 14px 40px; }
+    .wrap {
+      padding: 16px 14px 40px;
+      grid-template-columns: 1fr;
+      grid-template-areas: "header" "sidebar" "main" "footer";
+    }
     .kpis { grid-template-columns: repeat(2, 1fr); }
     .charts { grid-template-columns: 1fr; }
     .toolkit { flex-direction: column; }
@@ -343,12 +332,6 @@
   .scorechip.fit { cursor: help; }
   .scorechip.top { box-shadow: 0 0 0 1px rgba(34,197,94,0.5); }
 
-  /* Priority-topic star/highlight (microplastics, ecotox, EDCs, R/Shiny) */
-  .job.starred { outline: 1.5px solid rgba(251,191,36,0.55); outline-offset: -1px;
-    background: rgba(251,191,36,0.06); }
-  .starbadge { color: #fbbf24; font-size: 14px; margin-right: 4px; cursor: help;
-    text-shadow: 0 0 6px rgba(251,191,36,0.5); }
-
   .act.on.dismiss, .act.on.irrelevant { background: var(--dismiss); color: white; border-color: var(--dismiss); }
   .act.irrelevant.on { background: #7f1d1d; border-color: #7f1d1d; color: #fee2e2; }
   .job[data-state="dismissed"], .job[data-state="irrelevant"] { opacity: 0.5; }
@@ -361,27 +344,6 @@
   .salary-ctl .salval { font-variant-numeric: tabular-nums; color: var(--ink); font-size: 12px; min-width: 110px; }
   .salary-ctl label { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 
-  /* Salary distribution histogram (interactive) */
-  .histo { display: flex; align-items: flex-end; gap: 4px; height: 240px; padding-top: 14px; }
-  .histo .hbar { flex: 1 1 0; display: flex; flex-direction: column; align-items: center;
-    justify-content: flex-end; cursor: pointer; min-width: 0; height: 100%; }
-  .histo .hbar .fill { width: 100%; background: var(--applied); border-radius: 3px 3px 0 0;
-    min-height: 2px; transition: background 0.1s, opacity 0.1s; opacity: 0.85; position: relative; }
-  .histo .hbar:hover .fill { background: var(--save); opacity: 1; }
-  .histo .hbar.dim .fill { opacity: 0.3; }
-  .histo .hbar .lab { font-size: 9px; color: var(--muted); margin-top: 4px; white-space: nowrap; }
-  .histo .hbar .cnt { font-size: 9px; color: var(--ink); font-weight: 700;
-    position: absolute; top: -13px; left: 50%; transform: translateX(-50%); }
-  .histo-note { font-size: 11px; color: var(--muted); margin-top: 8px; line-height: 1.5; }
-  .histo-empty { color: var(--muted); font-size: 13px; padding: 30px 0; text-align: center; }
-
-  /* Map */
-  #map { height: 300px; border: 1px solid var(--line); border-radius: 12px;
-    margin-bottom: 8px; background: var(--map-bg); }
-  .leaflet-popup-content { font-size: 12px; line-height: 1.4; }
-  .leaflet-popup-content a { color: #0a66c2; }
-  .map-note { color: var(--muted); font-size: 12px; margin: 8px 0 0; line-height: 1.45; }
-
   .about-tool {
     margin: 22px 0 0; padding-top: 12px; border-top: 1px solid var(--line);
     color: var(--muted); font-size: 11px; line-height: 1.45;
@@ -389,12 +351,6 @@
   .about-tool strong { color: var(--ink); font-weight: 600; }
   .about-tool a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
   .about-tool a:hover { color: var(--accent); }
-</style>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-<style>
 </style>
 </head>
 <body>
@@ -414,6 +370,8 @@
   <a class="iconbtn" id="repo-link" href="https://github.com/ScottCoffin/Job_Scraper" target="_blank" rel="noopener" title="View source repo">⌥ Repo</a>
 </header>
 
+<aside class="sidebar">
+
 <div class="kpis">
   <div class="kpi"><div class="num" id="kpi-total">0</div><div class="lbl">Total</div></div>
   <div class="kpi"><div class="num" id="kpi-new">0</div><div class="lbl">New this run</div></div>
@@ -426,16 +384,6 @@
 <div class="charts">
   <div class="card"><h3>Top companies</h3><div class="barlist" id="chart-companies"></div></div>
   <div class="card"><h3>Role mix</h3><div class="barlist" id="chart-roles"></div></div>
-  <div class="card chart-salary">
-    <h3>Salary distribution <span style="font-weight:400;color:var(--muted);font-size:11px">· annualized · click to set floor</span></h3>
-    <div class="histo" id="chart-salary"></div>
-    <div class="histo-note" id="salary-note"></div>
-  </div>
-  <div class="card chart-map">
-    <h3>Map <span style="font-weight:400;color:var(--muted);font-size:11px">- visible jobs</span></h3>
-    <div id="map"></div>
-    <div id="map-note" class="map-note"></div>
-  </div>
 </div>
 
 <section class="toolkit" aria-label="Companion toolkit">
@@ -468,7 +416,6 @@
     <div class="controls-row" style="gap:6px">
       <button type="button" class="pill on" id="view-browse" aria-pressed="true">Browse</button>
       <button type="button" class="pill" id="view-rank" aria-pressed="false">★ Best fit</button>
-      <button type="button" class="pill" id="view-map" aria-pressed="false">🗺 Map</button>
     </div>
   </div>
   <div class="controls-row">
@@ -508,11 +455,6 @@
     <div id="filter-state" class="controls-row" style="gap:6px"></div>
   </div>
   <div class="controls-row">
-    <span class="pillgroup-label">Highlight</span>
-    <button type="button" class="pill" id="star-only" aria-pressed="false"
-      title="Show only roles touching microplastics, ecotoxicology, EDCs, or R/Shiny">★ Priority topics</button>
-  </div>
-  <div class="controls-row">
     <span class="pillgroup-label">Salary</span>
     <div class="salary-ctl">
       <div class="rng">
@@ -534,12 +476,10 @@
       <label><input type="checkbox" id="score-unscored" checked /> include unscored</label>
     </div>
   </div>
-  <div class="controls-row">
-    <span class="pillgroup-label">Min ★</span>
-    <div id="filter-stars" class="controls-row" style="gap:6px"></div>
   </div>
-</div>
+</aside>
 
+<main class="main-panel">
 <div id="rank-info" hidden></div>
 <div class="bulkbar" id="bulkbar" role="region" aria-live="polite">
   <span class="count" id="bulk-count">0 selected</span>
@@ -553,6 +493,7 @@
   <button type="button" class="act" id="bulk-clear">Clear</button>
 </div>
 <div class="jobs" id="jobs"></div>
+</main>
 
 <footer class="about-tool" aria-label="About this tool">
   <strong>About this tool:</strong> Job Scraper + Triage Dashboard uses GitHub Actions and
@@ -1593,48 +1534,6 @@
   }
 
   // ---------- Interactive salary distribution ----------
-  // Bucketed histogram of the current selection (every filter EXCEPT the salary
-  // floor, so the bars stay put while you drag the slider). Bars are clickable
-  // to set the floor; buckets below the active floor dim out.
-  const SAL_BUCKETS = [
-    [0, 50000, '<50'], [50000, 75000, '50'], [75000, 100000, '75'],
-    [100000, 125000, '100'], [125000, 150000, '125'], [150000, 175000, '150'],
-    [175000, 200000, '175'], [200000, 250000, '200'], [250000, Infinity, '250+'],
-  ];
-  function renderSalaryChart() {
-    const host = $('chart-salary'), note = $('salary-note');
-    if (!host) return;
-    const pool = VIEW.filter(j => matchesFilters(j, 'salary'));
-    const priced = pool.filter(j => j._salMin != null);
-    if (!priced.length) {
-      host.className = 'histo-empty';
-      host.textContent = pool.length
-        ? `No listed salaries among ${pool.length} selected role(s).`
-        : 'No roles selected.';
-      note.textContent = '';
-      return;
-    }
-    host.className = 'histo';
-    const mids = priced.map(j => (j._salMin + j._salMax) / 2);
-    const counts = SAL_BUCKETS.map(([lo, hi]) => mids.filter(m => m >= lo && m < hi).length);
-    const max = Math.max(...counts, 1);
-    host.innerHTML = SAL_BUCKETS.map(([lo, hi, lab], i) => {
-      const n = counts[i];
-      const h = n ? Math.max(5, Math.round((n / max) * 100)) : 0;
-      const dim = filters.salMin > 0 && lo < filters.salMin ? ' dim' : '';
-      const range = `$${Math.round(lo / 1000)}k` + (hi === Infinity ? '+' : `–$${Math.round(hi / 1000)}k`);
-      return `<div class="hbar${dim}" data-floor="${lo}" title="${range}/yr: ${n} role${n === 1 ? '' : 's'} (click to set floor)">
-        <div class="fill" style="height:${h}%">${n ? `<span class="cnt">${n}</span>` : ''}</div>
-        <span class="lab">${lab}</span></div>`;
-    }).join('');
-    const sorted = mids.slice().sort((a, b) => a - b);
-    const med = sorted[Math.floor(sorted.length / 2)];
-    const unpriced = pool.length - priced.length;
-    note.innerHTML = `${priced.length} priced role(s) · median ≈ <strong>$${Math.round(med / 1000)}k/yr</strong>`
-      + (unpriced ? ` · ${unpriced} with no listed salary` : '')
-      + ' &nbsp;·&nbsp; <span>x-axis = $k floor</span>';
-  }
-
   function escape(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, c =>
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -1799,15 +1698,6 @@
 
   function renderJobs() {
     const el = $('jobs'), info = $('rank-info');
-    // Map focus: the map is always visible in the summary grid; this view just
-    // hides the list so the map becomes the primary workspace.
-    if (viewMode === 'map') {
-      RENDERED = visibleJobs();
-      el.hidden = true; info.hidden = true;
-      renderMap();
-      updateBulkBar();
-      return;
-    }
     el.hidden = false;
 
     let jobs = visibleJobs();
@@ -1840,36 +1730,18 @@
       const selected = selectedUrls.has(j.url);
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
-      const sal = j._salDisp || j.salary;
-      const score = (viewMode === 'rank' || sortMode === 'fit') ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
       const note = jobNote(j);
-      const typeBits = [
-        j._work ? escape(j._work) : '',
-        j.job_type ? escape(j.job_type) : '',
-        j.is_remote && !j._work ? 'Remote' : '',
-      ].filter(Boolean).join(' · ');
-      const star = j._star
-        ? `<span class="starbadge" title="Priority topic: ${escape((j._stars || []).join(', '))}">★</span>`
-        : '';
-      const userStars = state.stars[j.url] || 0;
-      const starBtns = [1,2,3,4,5].map(n =>
-        `<button type="button" data-set-star="${n}" class="${n <= userStars ? 'on' : ''}" aria-label="${n} star${n > 1 ? 's' : ''}" aria-pressed="${n <= userStars}">${n <= userStars ? '★' : '☆'}</button>`
-      ).join('');
-      return `<div class="job${j._star ? ' starred' : ''}" data-url="${escape(j.url)}" data-state="${st}" data-focused="${j.url === focusedUrl}" data-selected="${selected}">
+      return `<div class="job" data-url="${escape(j.url)}" data-state="${st}" data-focused="${j.url === focusedUrl}" data-selected="${selected}">
         <div class="job-main">
-          <div class="title"><label class="selectbox" title="Select for bulk actions"><input type="checkbox" data-select aria-label="Select ${escape(j.title)}" ${selected ? 'checked' : ''}></label>${star}${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
+          <div class="title"><label class="selectbox" title="Select for bulk actions"><input type="checkbox" data-select aria-label="Select ${escape(j.title)}" ${selected ? 'checked' : ''}></label>${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
             <span class="co">${escape(j.company)}</span>
-            <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
-            ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
-            ${typeBits ? `<span>${typeBits}</span>` : ''}
+            <span class="src-item">🔗 ${srcBadges}</span>
             ${j.date_posted ? `<span title="${escape(j.date_posted)}">🕒 ${escape(_fmtDate(j.date_posted))}</span>` : ''}
-            ${score}
-            <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span><span class="tag sector-${j._sector.toLowerCase().replace(/[\s\/]/g,'-')}">${escape(j._sector)}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
-          <div class="note-row"><textarea class="note-input" data-note rows="1" placeholder="Notes, follow-up, contact, deadline...">${escape(note)}</textarea><div class="star-rating" title="Rate your interest (click to set, click again to clear)">${starBtns}</div></div>
+          <div class="note-row"><textarea class="note-input" data-note rows="1" placeholder="Notes, follow-up, contact, deadline...">${escape(note)}</textarea></div>
           <div class="tl-wrap" data-tl="${escape(j.url)}">${timelineInnerHtml(j.url)}</div>
         </div>
         <div class="actions">
@@ -1889,206 +1761,6 @@
     updateBulkBar();
   }
 
-  // ---------- Map view (Leaflet) ----------
-  // Client-side geocoding via a static city/region → [lat,lng] table covering
-  // California, Oregon, and Australia (no API key, no network). Jobs cluster by
-  // location; the view auto-fits to wherever they are. Remote/unknown roles get
-  // a single marker at the California center.
-  const CITY_COORDS = {
-    'sacramento': [38.5816, -121.4944], 'west sacramento': [38.5805, -121.5302],
-    'davis': [38.5449, -121.7405], 'rancho cordova': [38.5891, -121.3027],
-    'elk grove': [38.4088, -121.3716], 'roseville': [38.7521, -121.288],
-    'folsom': [38.678, -121.176], 'woodland': [38.6785, -121.7733],
-    'san francisco': [37.7749, -122.4194], 'south san francisco': [37.6547, -122.4077],
-    'oakland': [37.8044, -122.2712], 'berkeley': [37.8715, -122.273],
-    'emeryville': [37.8313, -122.2852], 'richmond': [37.9358, -122.3477],
-    'palo alto': [37.4419, -122.143], 'mountain view': [37.3861, -122.0839],
-    'menlo park': [37.4538, -122.1817], 'sunnyvale': [37.3688, -122.0363],
-    'santa clara': [37.3541, -121.9552], 'san jose': [37.3382, -121.8863],
-    'san mateo': [37.563, -122.3255], 'redwood city': [37.4852, -122.2364],
-    'fremont': [37.5485, -121.9886], 'hayward': [37.6688, -122.0808],
-    'concord': [37.978, -122.0311], 'walnut creek': [37.9101, -122.0652],
-    'pleasanton': [37.6624, -121.8747], 'livermore': [37.6819, -121.768],
-    'novato': [38.1074, -122.5697], 'san rafael': [37.9735, -122.5311],
-    'vacaville': [38.3566, -121.9877], 'vallejo': [38.1041, -122.2566],
-    'fairfield': [38.2494, -122.0399], 'napa': [38.2975, -122.2869],
-    'santa rosa': [38.4405, -122.7144], 'stockton': [37.9577, -121.2908],
-    'modesto': [37.6391, -120.9969], 'merced': [37.3022, -120.4829],
-    'fresno': [36.7378, -119.7871], 'bakersfield': [35.3733, -119.0187],
-    'los angeles': [34.0522, -118.2437], 'long beach': [33.7701, -118.1937],
-    'pasadena': [34.1478, -118.1445], 'santa monica': [34.0195, -118.4912],
-    'torrance': [33.8358, -118.3406], 'irvine': [33.6846, -117.8265],
-    'costa mesa': [33.6411, -117.9187], 'anaheim': [33.8366, -117.9143],
-    'fountain valley': [33.7092, -117.9536], 'riverside': [33.9806, -117.3755],
-    'san bernardino': [34.1083, -117.2898], 'san diego': [32.7157, -117.1611],
-    'carlsbad': [33.1581, -117.3506], 'oceanside': [33.1959, -117.3795],
-    'santa barbara': [34.4208, -119.6982], 'san luis obispo': [35.2828, -120.6596],
-    'monterey': [36.6002, -121.8947], 'arcata': [40.8665, -124.0828],
-    'eureka': [40.8021, -124.1637], 'redding': [40.5865, -122.3917],
-    'san carlos': [37.5072, -122.2605], 'foster city': [37.5585, -122.2711],
-    'milpitas': [37.4323, -121.8996], 'cupertino': [37.323, -122.0322],
-    'daly city': [37.6879, -122.4702], 'northridge': [34.2283, -118.5362],
-    'duarte': [34.1395, -117.9773], 'menlo': [37.4538, -122.1817],
-    // ---- more cities ----
-    'santa ana': [33.7455, -117.8677], 'orange': [33.7879, -117.8531],
-    'huntington beach': [33.6595, -117.9988], 'newport beach': [33.6189, -117.9298],
-    'garden grove': [33.7739, -117.9415], 'fullerton': [33.8704, -117.9242],
-    'el segundo': [33.919, -118.4165], 'culver city': [34.0211, -118.3965],
-    'glendale': [34.1425, -118.2551], 'burbank': [34.1808, -118.309],
-    'thousand oaks': [34.1706, -118.8376], 'camarillo': [34.2164, -119.0376],
-    'ventura': [34.2746, -119.229], 'oxnard': [34.1975, -119.1771],
-    'ontario': [34.0633, -117.6509], 'rancho cucamonga': [34.1064, -117.5931],
-    'chula vista': [32.6401, -117.0842], 'la jolla': [32.8328, -117.2713],
-    'escondido': [33.1192, -117.0864], 'temecula': [33.4936, -117.1484],
-    'visalia': [36.3302, -119.2921], 'salinas': [36.6777, -121.6555],
-    'santa cruz': [36.9741, -122.0308], 'chico': [39.7285, -121.8375],
-    'rocklin': [38.7907, -121.2358], 'citrus heights': [38.7071, -121.281],
-    'antioch': [38.0049, -121.8058], 'tracy': [37.7397, -121.4252],
-    'manteca': [37.7974, -121.216], 'turlock': [37.4947, -120.8466],
-    'san luis': [35.2828, -120.6596], 'gilroy': [37.0058, -121.5683],
-    'pasadena': [34.1478, -118.1445], 'el cerrito': [37.9161, -122.3108],
-    // ---- counties (centroids / county seats) ----
-    'orange county': [33.7175, -117.8311], 'los angeles county': [34.0522, -118.2437],
-    'san diego county': [32.7157, -117.1611], 'alameda county': [37.6017, -121.7195],
-    'santa clara county': [37.3337, -121.8907], 'sacramento county': [38.45, -121.34],
-    'riverside county': [33.9533, -117.3962], 'san bernardino county': [34.1083, -117.2898],
-    'contra costa county': [37.9192, -121.9518], 'ventura county': [34.3578, -119.1331],
-    'kern county': [35.3733, -119.0187], 'fresno county': [36.7378, -119.7871],
-    'san mateo county': [37.4337, -122.3573], 'sonoma county': [38.5078, -122.86],
-    'marin county': [38.0834, -122.7633], 'solano county': [38.3105, -121.9018],
-    'monterey county': [36.2406, -121.3104], 'santa barbara county': [34.7, -120.0],
-    'placer county': [39.0633, -120.7174], 'yolo county': [38.7646, -121.9018],
-    'san joaquin county': [37.9349, -121.2716], 'stanislaus county': [37.5591, -120.9978],
-    'orange county, ca': [33.7175, -117.8311],
-    // ---- Oregon ----
-    'portland, or': [45.5152, -122.6784], 'portland, oregon': [45.5152, -122.6784],
-    'bend, or': [44.0582, -121.3153], 'bend, oregon': [44.0582, -121.3153],
-    'beaverton': [45.4871, -122.8037], 'hillsboro': [45.5229, -122.9898],
-    'gresham': [45.5001, -122.4302], 'eugene': [44.0521, -123.0868],
-    'salem, or': [44.9429, -123.0351], 'corvallis': [44.5646, -123.262],
-    'redmond, or': [44.2726, -121.1739], 'ridgefield': [45.8162, -122.7424],
-    'tigard': [45.4312, -122.7715],
-    // ---- Australia (cities + states) ----
-    'sydney': [-33.8688, 151.2093], 'melbourne': [-37.8136, 144.9631],
-    'brisbane': [-27.4698, 153.0251], 'perth': [-31.9523, 115.8613],
-    'adelaide': [-34.9285, 138.6007], 'canberra': [-35.2809, 149.13],
-    'darwin': [-12.4634, 130.8456], 'hobart': [-42.8821, 147.3272],
-    'gold coast': [-28.0167, 153.4], 'newcastle': [-32.9283, 151.7817],
-    'wollongong': [-34.4248, 150.8931], 'geelong': [-38.1499, 144.3617],
-    'townsville': [-19.2589, 146.8169], 'cairns': [-16.9186, 145.7781],
-    'new south wales': [-33.0, 146.0], 'victoria, australia': [-37.0, 144.5],
-    'queensland': [-22.0, 144.0], 'western australia': [-26.0, 121.0],
-    'south australia': [-30.0, 135.0], 'northern territory': [-19.5, 133.0],
-    'tasmania': [-42.0, 146.5], 'australian capital territory': [-35.5, 149.0],
-    // ---- Federal hubs / major US cities (USAJOBS roles) ----
-    'washington, district of columbia': [38.9072, -77.0369], 'district of columbia': [38.9072, -77.0369],
-    'bethesda': [38.9847, -77.0947], 'rockville': [39.084, -77.1528],
-    'research triangle park': [35.8989, -78.8636], 'durham, north carolina': [35.994, -78.8986],
-    'raleigh': [35.7796, -78.6382], 'cincinnati': [39.1031, -84.512],
-    'atlanta': [33.749, -84.388], 'denver': [39.7392, -104.9903],
-    'seattle': [47.6062, -122.3321], 'las vegas': [36.1699, -115.1398],
-    'ann arbor': [42.2808, -83.743], 'narragansett': [41.4501, -71.4495],
-    'gulf breeze': [30.357, -87.1641], 'edison, new jersey': [40.5187, -74.4121],
-    'kansas city': [39.0997, -94.5786], 'chicago': [41.8781, -87.6298],
-    'corvallis': [44.5646, -123.262], 'newport, oregon': [44.6368, -124.0535],
-    'boston': [42.3601, -71.0589], 'philadelphia': [39.9526, -75.1652],
-    'new york': [40.7128, -74.006], 'houston': [29.7604, -95.3698],
-    'dallas': [32.7767, -96.797], 'phoenix': [33.4484, -112.074],
-    'anchorage': [61.2181, -149.9003], 'honolulu': [21.3069, -157.8583],
-  };
-  const CA_CENTER = [37.4, -119.5];
-  const US_CENTROID = [39.5, -98.0];
-  // Full US state names (USAJOBS uses these) → fall back to the US centroid
-  // when no city matched, so federal roles don't pile onto California.
-  const US_STATE_RE = /\b(alabama|alaska|arizona|arkansas|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|north carolina|north dakota|ohio|oklahoma|pennsylvania|rhode island|south carolina|south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming|district of columbia|puerto rico)\b/;
-  let _map = null, _markerLayer = null, _lastFitKey = '';
-
-  // Longest-name match wins ("south san francisco" beats "san francisco"). If no
-  // city/state matched, fall back to a country/region centroid; otherwise null
-  // (→ remote/statewide bucket).
-  function geocodeJob(loc) {
-    const s = (loc || '').toLowerCase();
-    let best = null, bestLen = 0;
-    for (const city in CITY_COORDS) {
-      if (s.includes(city) && city.length > bestLen) { best = CITY_COORDS[city]; bestLen = city.length; }
-    }
-    if (best) return best;
-    if (/australia/.test(s)) return [-25.27, 133.77];      // AU centroid
-    if (/\boregon\b|,\s*or\b/.test(s)) return [44.0, -120.5]; // OR centroid
-    if (US_STATE_RE.test(s)) return US_CENTROID;            // other US (federal) → US centroid
-    return null;
-  }
-
-  function renderMap() {
-    const note = $('map-note');
-    if (typeof L === 'undefined') {
-      note.hidden = false;
-      note.textContent = 'Map library failed to load (offline?). The list views still work.';
-      return;
-    }
-    if (!_map) {
-      _map = L.map('map', { scrollWheelZoom: true }).setView(CA_CENTER, 6);
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 18, attribution: '© OpenStreetMap'
-      }).addTo(_map);
-      _markerLayer = L.layerGroup().addTo(_map);
-    }
-    setTimeout(() => _map.invalidateSize(), 0);   // container was hidden → fix sizing
-    _markerLayer.clearLayers();
-
-    const jobs = visibleJobs();
-    const buckets = new Map();   // key → {lat,lng,remote,jobs[]}
-    let remoteCount = 0;
-    jobs.forEach(j => {
-      const c = geocodeJob(j.location);
-      if (!c) { remoteCount++;
-        const k = 'remote';
-        if (!buckets.has(k)) buckets.set(k, { lat: CA_CENTER[0], lng: CA_CENTER[1], remote: true, jobs: [] });
-        buckets.get(k).jobs.push(j); return;
-      }
-      const k = c[0] + ',' + c[1];
-      if (!buckets.has(k)) buckets.set(k, { lat: c[0], lng: c[1], remote: false, jobs: [] });
-      buckets.get(k).jobs.push(j);
-    });
-
-    let maxN = 1;
-    buckets.forEach(b => { if (b.jobs.length > maxN) maxN = b.jobs.length; });
-    buckets.forEach(b => {
-      const n = b.jobs.length;
-      const r = 7 + 13 * Math.sqrt(n / maxN);
-      const top = b.jobs.slice().sort((x, y) => rankScore(y).value - rankScore(x).value).slice(0, 12);
-      const list = top.map(j =>
-        `<div style="margin:3px 0">${j._star ? '<span style="color:#d97706">★</span> ' : ''}`
-        + `<a href="${escape(j.url)}" target="_blank" rel="noopener">${escape(j.title)}</a> <span style="color:#888">· score ${rankScore(j).value}</span>`
-        + `<br><span style="color:#666">${escape(j.company)}${j._salDisp ? ' · ' + escape(j._salDisp) : ''}</span></div>`).join('');
-      const where = b.remote ? 'Remote / Statewide' : escape(top[0].location || 'California');
-      const m = L.circleMarker([b.lat, b.lng], {
-        radius: r, color: b.remote ? '#a78bfa' : '#34d399',
-        fillColor: b.remote ? '#a78bfa' : '#34d399', fillOpacity: 0.55, weight: 1.5,
-      }).addTo(_markerLayer);
-      m.bindTooltip(`${where}: ${n} role${n === 1 ? '' : 's'}`, { direction: 'top' });
-      m.bindPopup(`<strong>${where}</strong> — ${n} role${n === 1 ? '' : 's'}`
-        + `${n > top.length ? ` (top ${top.length} by score)` : ''}<div style="max-height:240px;overflow:auto;margin-top:4px">${list}</div>`,
-        { maxWidth: 320 });
-    });
-
-    // Auto-fit to wherever the jobs are (CA + Oregon + Australia). Only refit
-    // when the extent actually changes, so dragging the salary slider etc.
-    // doesn't keep snapping the view.
-    const pts = [...buckets.values()].map(b => [b.lat, b.lng]);
-    const key = pts.map(p => p.join(',')).sort().join('|');
-    if (pts.length && key !== _lastFitKey) {
-      _map.fitBounds(pts, { padding: [34, 34], maxZoom: 9 });
-      _lastFitKey = key;
-    } else if (!pts.length) {
-      _map.setView(CA_CENTER, 5); _lastFitKey = '';
-    }
-
-    note.hidden = false;
-    note.textContent = `${jobs.length} role(s) mapped · green = located, purple = remote/statewide (${remoteCount}). `
-      + 'Hover a dot for the location, click for the roles (★ = priority topic).';
-  }
-
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
     renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'HiringCafe', 'CalCareers', 'CSUCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
@@ -2101,11 +1773,8 @@
     renderStateFilter();
     renderSalaryControl();
     renderScoreControl();
-    renderStarsFilter();
     renderKpis();
     renderCharts();
-    renderSalaryChart();
-    renderMap();
     renderViewControls();
     renderSortControls();
     renderJobs();
@@ -2137,29 +1806,6 @@
       return sc == null ? filters.scoreUnscored : sc >= v;
     }).length;
     lbl.textContent = `≥ ${v} · ${pass}`;
-  }
-
-  // Min star rating pills.
-  function renderStarsFilter() {
-    const host = $('filter-stars');
-    if (!host) return;
-    const opts = [
-      { label: 'Any', val: 0 },
-      { label: '★', val: 1 },
-      { label: '★★', val: 2 },
-      { label: '★★★', val: 3 },
-      { label: '★★★★', val: 4 },
-    ];
-    host.innerHTML = opts.map(o => {
-      const active = filters.minStars === o.val;
-      const count = VIEW.filter(j =>
-        matchesFilters(j, 'stars') && (state.stars[j.url] || 0) >= o.val
-      ).length;
-      return `<button type="button" class="pill${active ? ' active' : ''}" data-minstar="${o.val}" aria-pressed="${active}">${o.label} <small style="opacity:0.65">${count}</small></button>`;
-    }).join('');
-    host.querySelectorAll('[data-minstar]').forEach(btn => {
-      btn.onclick = () => { filters.minStars = Number(btn.dataset.minstar); renderAll(); };
-    });
   }
 
   // Build timeline HTML for a single job URL (inner content of .tl-wrap).
@@ -2479,7 +2125,7 @@
   });
 
   function renderViewControls() {
-    ['browse', 'rank', 'map'].forEach(m => {
+    ['browse', 'rank'].forEach(m => {
       const b = $('view-' + m);
       b.classList.toggle('on', viewMode === m);
       b.setAttribute('aria-pressed', String(viewMode === m));
@@ -2513,7 +2159,6 @@
   }
   $('view-browse').onclick = () => setView('browse');
   $('view-rank').onclick = () => setView('rank');
-  $('view-map').onclick = () => setView('map');
   $('sort-controls').addEventListener('click', e => {
     const btn = e.target.closest('[data-sort]');
     if (btn) setSortMode(btn.dataset.sort);
@@ -2527,27 +2172,10 @@
   $('sal-min').addEventListener('input', e => {
     filters.salMin = Number(e.target.value) || 0;
     renderSalaryControl();
-    renderSalaryChart();   // re-dim buckets below the new floor
-    renderMap();
-    renderJobs();          // map/list update without rebuilding every facet on each tick
+    renderJobs();
   });
   $('sal-min').addEventListener('change', renderAll);
 
-  // Click a histogram bar to set the salary floor to that bucket's bottom.
-  $('chart-salary').addEventListener('click', e => {
-    const bar = e.target.closest('.hbar');
-    if (!bar) return;
-    const floor = Number(bar.dataset.floor) || 0;
-    filters.salMin = (filters.salMin === floor) ? 0 : floor;   // click active bar = clear
-    $('sal-min').value = filters.salMin;
-    renderAll();
-  });
-  $('star-only').onclick = () => {
-    filters.starOnly = !filters.starOnly;
-    $('star-only').classList.toggle('on', filters.starOnly);
-    $('star-only').setAttribute('aria-pressed', String(filters.starOnly));
-    renderAll();
-  };
   $('sal-unknown').addEventListener('change', e => {
     filters.salUnknown = e.target.checked;
     renderAll();
@@ -2580,7 +2208,6 @@
     $('score-min').value = 0; $('score-unscored').checked = true;
     filters.minStars = 0;
     filters.starOnly = false;
-    $('star-only').classList.remove('on'); $('star-only').setAttribute('aria-pressed', 'false');
     filters.q = ''; $('search').value = '';
     sortMode = 'fit';
     renderAll();
