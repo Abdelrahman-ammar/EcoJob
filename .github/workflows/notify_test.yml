@@ -1,13 +1,14 @@
-name: Test Pushover Notification
+name: Test Notifications
 
-# Manually trigger from the Actions tab to send a single test push to your
-# phone — confirms PUSHOVER_TOKEN / PUSHOVER_USER are set correctly on GitHub.
+# Manually trigger from the Actions tab to send a single test push on every
+# channel that has credentials set — confirms PUSHOVER_TOKEN/PUSHOVER_USER
+# and/or TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID are set correctly on GitHub.
 on:
   workflow_dispatch:
 
 jobs:
   test:
-    name: Send test push
+    name: Send test notification
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -18,8 +19,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Send test Pushover notification
+      - name: Send test notification
         run: python notify.py --test
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

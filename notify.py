@@ -1,21 +1,30 @@
 """
-Pushover push notifications for highly-relevant NEW jobs.
+Pushover / Telegram push notifications for every NEW matching job.
 
-Called by scrape_jobs.save_jobs_output() with each run's new_jobs. It is a
-no-op unless BOTH PUSHOVER_TOKEN and PUSHOVER_USER env vars are set (so local
-runs and forks without Pushover are unaffected). It dedupes against
-notified.json so the same role is never pushed twice — across sources or runs.
+Called by scrape_jobs.save_jobs_output() with each run's new_jobs — jobs
+that already passed the config.json keyword/location filter. It is a
+no-op unless at least one channel's credentials are set. It dedupes
+against notified.json so the same role is never pushed twice — across
+sources or runs.
 
-"Highly relevant" = a posting that either
-  • touches a priority topic (microplastics, ecotoxicology, endocrine-disrupting
-    chemicals, R/Shiny — mirrors STAR_TERMS in triage.html), or
-  • scores >= NOTIFY_MIN_FIT (default 75) on a compact port of the dashboard's
-    resume-fit model.
+Every new job that reaches this function gets notified: the keyword/
+location match in scrape_jobs.py IS the relevance filter. This module
+does not re-score or re-filter on top of it for the per-job alert.
 
 Set up (GitHub → Settings → Secrets and variables → Actions):
-  PUSHOVER_TOKEN   your Pushover application/API token
-  PUSHOVER_USER    your Pushover user key
-Optional: NOTIFY_MIN_FIT (default 75) — lower to get more (less selective) pings.
+  Pushover:
+    PUSHOVER_TOKEN      your Pushover application/API token
+    PUSHOVER_USER       your Pushover user key
+  Telegram:
+    TELEGRAM_BOT_TOKEN  bot token from @BotFather
+    TELEGRAM_CHAT_ID    your chat id (from @userinfobot, or the bot's own
+                         getUpdates endpoint after you message it once)
+Either channel works alone; set both secrets pairs to get pinged on both.
+
+The opt-in weekly digest (a separate feature) still uses the deterministic
+fit-scoring further down (relevance/_fit) to rank "standouts" in that
+digest — that scoring is untouched and unrelated to whether an immediate
+per-job alert fires.
 """
 
 import json
@@ -529,12 +538,46 @@ def send_pushover(token: str, user: str, *, title: str, message: str,
         return False
 
 
+def send_telegram(bot_token: str, chat_id: str, *, title: str, message: str,
+                  url: str = "", url_title: str = "") -> bool:
+    text = f"{title}\n{message}"
+    if url:
+        text += f"\n{url_title or 'Link'}: {url}"
+    api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    body = {
+        "chat_id": chat_id,
+        "text": text[:4096],
+        "disable_web_page_preview": "true",
+    }
+    data = urllib.parse.urlencode(body).encode()
+    try:
+        with urllib.request.urlopen(urllib.request.Request(api_url, data=data), timeout=15) as r:
+            return 200 <= r.status < 300
+    except urllib.error.HTTPError as e:
+        try:
+            detail = e.read().decode("utf-8", "ignore")
+        except Exception:
+            detail = ""
+        print(f"  ⚠️  Telegram HTTP {e.code}: {detail[:300]}")
+        return False
+    except Exception as e:
+        print(f"  ⚠️  Telegram send failed: {e}")
+        return False
+
+
 def notify_new_jobs(new_jobs: list, source_label: str = ""):
-    """Push the highly-relevant, not-yet-notified entries of new_jobs."""
-    token = os.environ.get("PUSHOVER_TOKEN")
-    user = os.environ.get("PUSHOVER_USER")
-    if not token or not user:
-        return  # notifications disabled — no creds
+    """Push every not-yet-notified entry of new_jobs to every configured channel.
+
+    new_jobs already passed the config.json keyword/location filter in
+    scrape_jobs.py, so no further relevance filtering happens here."""
+    pushover_token = os.environ.get("PUSHOVER_TOKEN")
+    pushover_user = os.environ.get("PUSHOVER_USER")
+    telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    telegram_chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    has_pushover = bool(pushover_token and pushover_user)
+    has_telegram = bool(telegram_token and telegram_chat_id)
+    if not has_pushover and not has_telegram:
+        return  # notifications disabled — no creds on any channel
 
     notified = _load_notified()
     seen = set(notified["ids"])
@@ -543,39 +586,38 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
         ident = _identity(job)
         if ident in seen:
             continue
-        relevant, stars, fit = relevance(job)
-        if not relevant:
-            continue
         seen.add(ident)
         notified["ids"].append(ident)
-        picks.append((job, stars, fit))
+        picks.append(job)
 
     if not picks:
         _save_notified(notified)
         return
 
-    # Starred first, then highest fit.
-    picks.sort(key=lambda p: (-len(p[1]), -p[2]))
     sent = 0
-    for job, stars, fit in picks[:MAX_PUSHES_PER_RUN]:
-        tag = ("★ " + ", ".join(stars)) if stars else f"fit {fit}/100"
-        msg = f"{job.get('company', '?')} — {job.get('location', '')}\n{tag}"
+    for job in picks[:MAX_PUSHES_PER_RUN]:
+        title = f"🆕 {job.get('title', 'New role')}"
+        msg = f"{job.get('company', '?')} — {job.get('location', '')}"
         if job.get("salary"):
             msg += f" · {job['salary']}"
-        send_pushover(
-            token, user,
-            title=f"🧪 {job.get('title', 'New role')}",
-            message=msg,
-            url=job.get("url", ""), url_title="Open posting",
-            priority=1 if stars else 0,   # priority topics ping with high priority
-        )
+        if has_pushover:
+            send_pushover(pushover_token, pushover_user, title=title, message=msg,
+                          url=job.get("url", ""), url_title="Open posting")
+        if has_telegram:
+            send_telegram(telegram_token, telegram_chat_id, title=title, message=msg,
+                          url=job.get("url", ""), url_title="Open posting")
         sent += 1
 
     extra = len(picks) - sent
     if extra > 0:
-        send_pushover(token, user, title="🧪 More relevant roles",
-                      message=f"+{extra} more relevant new role(s) — open the dashboard.")
-    print(f"  📲 Pushover: notified {sent} relevant role(s)"
+        summary = f"+{extra} more new role(s) — open the dashboard."
+        if has_pushover:
+            send_pushover(pushover_token, pushover_user, title="🆕 More new roles", message=summary)
+        if has_telegram:
+            send_telegram(telegram_token, telegram_chat_id, title="🆕 More new roles", message=summary)
+
+    channels = "+".join(c for c, on in (("Pushover", has_pushover), ("Telegram", has_telegram)) if on)
+    print(f"  📲 {channels}: notified {sent} new role(s)"
           + (f" (+{extra} summarized)" if extra else ""))
     _save_notified(notified)
 
@@ -615,30 +657,49 @@ def send_weekly_digest(*, days: int | None = None, force: bool = False,
 
 
 def send_test() -> bool:
-    """Send a single test push to verify the Pushover setup end-to-end.
-    Returns True on success. Prints a clear diagnosis on failure."""
-    token = os.environ.get("PUSHOVER_TOKEN")
-    user = os.environ.get("PUSHOVER_USER")
-    print(f"PUSHOVER_TOKEN: {'(set)' if token else '(MISSING)'}")
-    print(f"PUSHOVER_USER:  {'(set)' if user else '(MISSING)'}")
-    if not token or not user:
-        print("\n❌ Both PUSHOVER_TOKEN and PUSHOVER_USER must be set.\n"
-              "   • Locally:  PUSHOVER_TOKEN=… PUSHOVER_USER=… python notify.py --test\n"
+    """Send a test push on every configured channel (Pushover and/or Telegram).
+    Returns True if every configured channel succeeded. Prints a clear
+    diagnosis per channel on failure."""
+    pushover_token = os.environ.get("PUSHOVER_TOKEN")
+    pushover_user = os.environ.get("PUSHOVER_USER")
+    telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    telegram_chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    has_pushover = bool(pushover_token and pushover_user)
+    has_telegram = bool(telegram_token and telegram_chat_id)
+
+    print(f"PUSHOVER_TOKEN:     {'(set)' if pushover_token else '(not set)'}")
+    print(f"PUSHOVER_USER:      {'(set)' if pushover_user else '(not set)'}")
+    print(f"TELEGRAM_BOT_TOKEN: {'(set)' if telegram_token else '(not set)'}")
+    print(f"TELEGRAM_CHAT_ID:   {'(set)' if telegram_chat_id else '(not set)'}")
+
+    if not has_pushover and not has_telegram:
+        print("\n❌ No channel configured. Set PUSHOVER_TOKEN+PUSHOVER_USER and/or "
+              "TELEGRAM_BOT_TOKEN+TELEGRAM_CHAT_ID.\n"
+              "   • Locally:  TELEGRAM_BOT_TOKEN=… TELEGRAM_CHAT_ID=… python notify.py --test\n"
               "   • On GitHub: add them as Actions secrets, then run the "
-              "'Test Pushover Notification' workflow.")
+              "'Test Notifications' workflow.")
         return False
-    ok = send_pushover(
-        token, user,
-        title="🧪 Job_Scraper — test notification",
-        message=("Pushover is wired up correctly. You'll get pings like this for "
-                 "highly-relevant new roles: microplastics, ecotoxicology, "
-                 "endocrine-disrupting chemicals, R/Shiny, or a high resume-fit score."),
-        url=DASHBOARD_URL,
-        url_title="Open dashboard",
-        priority=0,
-    )
-    print("\n✅ Test notification sent — check your phone." if ok
-          else "\n❌ Send failed (see the error above — usually a wrong token or user key).")
+
+    ok = True
+    message = "You're wired up correctly. You'll get a ping like this for every new job match."
+    if has_pushover:
+        r = send_pushover(
+            pushover_token, pushover_user,
+            title="🆕 Job_Scraper — test notification",
+            message=message, url=DASHBOARD_URL, url_title="Open dashboard", priority=0,
+        )
+        print("✅ Pushover test sent — check your phone." if r
+              else "❌ Pushover send failed (see error above — usually a wrong token or user key).")
+        ok = ok and r
+    if has_telegram:
+        r = send_telegram(
+            telegram_token, telegram_chat_id,
+            title="🆕 Job_Scraper — test notification",
+            message=message, url=DASHBOARD_URL, url_title="Open dashboard",
+        )
+        print("✅ Telegram test sent — check your chat." if r
+              else "❌ Telegram send failed (see error above — usually a wrong bot token or chat id).")
+        ok = ok and r
     return ok
 
 
@@ -652,7 +713,7 @@ if __name__ == "__main__":
     except Exception:
         pass
 
-    parser = argparse.ArgumentParser(description="Pushover notifications for Job_Scraper.")
+    parser = argparse.ArgumentParser(description="Pushover / Telegram notifications for Job_Scraper.")
     parser.add_argument("--test", action="store_true", help="send a test push")
     parser.add_argument("--weekly-digest", action="store_true", help="send the weekly digest")
     parser.add_argument("--days", type=int, default=None,
@@ -660,7 +721,7 @@ if __name__ == "__main__":
     parser.add_argument("--force", action="store_true",
                         help="bypass the weekly opt-in flag for manual dispatch")
     parser.add_argument("--dry-run", action="store_true",
-                        help="print the weekly digest without sending Pushover")
+                        help="print the weekly digest without sending any notification")
     args = parser.parse_args()
 
     if args.weekly_digest:
