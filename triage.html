@@ -229,21 +229,6 @@
   .score-ctl .scoreval { font-variant-numeric: tabular-nums; color: var(--ink); font-size: 12px; min-width: 70px; }
   .score-ctl label { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 
-  /* ---- Per-job event timeline ---- */
-  .tl-wrap { margin-top: 7px; border-top: 1px solid var(--line); padding-top: 6px; }
-  .tl-entries { list-style: none; margin: 0 0 5px; padding: 0; }
-  .tl-entry { display: flex; gap: 7px; align-items: baseline; font-size: 11.5px; margin-bottom: 3px; }
-  .tl-entry .tl-ts { color: var(--muted); white-space: nowrap; min-width: 80px; flex-shrink: 0; }
-  .tl-entry .tl-text { flex: 1; color: var(--ink); }
-  .tl-del { background: none; border: none; cursor: pointer; color: var(--muted); font-size: 10px; padding: 0 2px; }
-  .tl-del:hover { color: var(--accent); }
-  .tl-add { display: flex; gap: 5px; }
-  .tl-add input { flex: 1; background: var(--input-bg); border: 1px solid var(--line);
-    border-radius: 4px; padding: 3px 6px; font-size: 12px; color: var(--ink); font-family: inherit; min-width: 0; }
-  .tl-add input:focus { outline: none; border-color: var(--accent); }
-  .tl-add button { background: var(--pill-bg); border: 1px solid var(--line); border-radius: 4px;
-    padding: 3px 8px; font-size: 11px; cursor: pointer; color: var(--ink); font-family: inherit; }
-  .tl-add button:hover { background: var(--line); }
 
   .bulkbar {
     display: none; align-items: center; gap: 8px; flex-wrap: wrap; position: sticky; top: 0;
@@ -703,10 +688,10 @@
     return repo ? { owner, repo } : null;
   }
 
-  function setKwStatus(msg, cls) {
+  function setKwStatus(html, cls) {
     const el = $('kw-status');
     if (!el) return;
-    el.textContent = msg;
+    el.innerHTML = html;
     el.className = 'kw-status' + (cls ? ' ' + cls : '');
   }
 
@@ -753,8 +738,11 @@
     const api = `https://api.github.com/repos/${or_.owner}/${or_.repo}/contents/config.json`;
     const headers = { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github+json' };
     try {
-      const getRes = await fetch(api, { headers });
-      if (!getRes.ok) throw new Error(`Couldn't read config.json (HTTP ${getRes.status}) — check the token has access to this repo.`);
+      const getRes = await fetch(api, { headers, cache: 'no-store' });
+      if (!getRes.ok) {
+        const detail = await getRes.text().catch(() => '');
+        throw new Error(`Couldn't read config.json (HTTP ${getRes.status}): ${detail.slice(0, 200)}`);
+      }
       const getJson = await getRes.json();
       const current = JSON.parse(b64DecodeUtf8(getJson.content.replace(/\n/g, '')));
       current.keywords = current.keywords || {};
@@ -772,14 +760,25 @@
           sha: getJson.sha,
         }),
       });
+      const putJson = await putRes.json().catch(() => ({}));
       if (!putRes.ok) {
-        const detail = await putRes.text().catch(() => '');
-        throw new Error(`Save failed (HTTP ${putRes.status}): ${detail.slice(0, 200)}`);
+        throw new Error(`Save failed (HTTP ${putRes.status}): ${JSON.stringify(putJson).slice(0, 200)}`);
+      }
+      // Don't trust a bare 2xx — require GitHub's actual commit object before
+      // claiming success, so a proxy/extension faking a 200 can't show a false
+      // "Saved" the way this did last time.
+      const commitSha = putJson.commit && putJson.commit.sha;
+      const commitUrl = putJson.commit && putJson.commit.html_url;
+      if (!commitSha || !commitUrl) {
+        throw new Error('GitHub responded OK but sent no commit info — treat this as NOT saved and check the repo directly.');
       }
       KEYWORDS_DIRTY = false;
-      setKwStatus('Saved — takes effect on the next scrape run.', 'ok');
+      setKwStatus(
+        `Saved — <a href="${commitUrl}" target="_blank" rel="noopener">view commit ${escape(commitSha.slice(0, 7))}</a> · takes effect on the next scrape run.`,
+        'ok'
+      );
     } catch (e) {
-      setKwStatus(e.message || 'Save failed.', 'err');
+      setKwStatus(escape(e.message || 'Save failed.'), 'err');
     }
   }
 
@@ -1870,7 +1869,6 @@
           </div>
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
           <div class="note-row"><textarea class="note-input" data-note rows="1" placeholder="Notes, follow-up, contact, deadline...">${escape(note)}</textarea></div>
-          <div class="tl-wrap" data-tl="${escape(j.url)}">${timelineInnerHtml(j.url)}</div>
         </div>
         <div class="actions">
           ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
@@ -1916,27 +1914,6 @@
       return sc == null ? filters.scoreUnscored : sc >= v;
     }).length;
     lbl.textContent = `≥ ${v} · ${pass}`;
-  }
-
-  // Build timeline HTML for a single job URL (inner content of .tl-wrap).
-  function timelineInnerHtml(url) {
-    const events = state.timeline[url] || [];
-    const entries = events.slice().reverse().map((ev, ri) => {
-      const i = events.length - 1 - ri;
-      const d = new Date(ev.ts);
-      const ds = `${(d.getMonth()+1).toString().padStart(2,'0')}/${d.getDate().toString().padStart(2,'0')} `
-        + `${d.getHours().toString().padStart(2,'0')}:${d.getMinutes().toString().padStart(2,'0')}`;
-      return `<li class="tl-entry">`
-        + `<span class="tl-ts">${ds}</span>`
-        + `<span class="tl-text">${escape(ev.text)}</span>`
-        + `<button type="button" class="tl-del" data-tl-del="${i}" title="Remove">✕</button>`
-        + `</li>`;
-    }).join('');
-    return (entries ? `<ul class="tl-entries">${entries}</ul>` : '')
-      + `<div class="tl-add">`
-      + `<input type="text" placeholder="Log event (phone screen, offer, follow-up…)" data-tl-input aria-label="Add event to timeline">`
-      + `<button type="button" data-tl-add>+ Log</button>`
-      + `</div>`;
   }
 
   // Strip derived (_-prefixed) fields and bulky JD text before persisting —
@@ -2044,38 +2021,6 @@
       return;
     }
 
-    // Timeline: add event
-    const tlAddBtn = e.target.closest('[data-tl-add]');
-    if (tlAddBtn) {
-      const tlWrap = tlAddBtn.closest('[data-tl]');
-      const url = tlWrap?.dataset.tl;
-      const input = tlWrap?.querySelector('[data-tl-input]');
-      const text = input?.value.trim();
-      if (url && text) {
-        state.timeline[url] = state.timeline[url] || [];
-        state.timeline[url].push({ ts: Date.now(), text });
-        input.value = '';
-        save();
-        tlWrap.innerHTML = timelineInnerHtml(url);
-      }
-      return;
-    }
-
-    // Timeline: delete event
-    const tlDelBtn = e.target.closest('[data-tl-del]');
-    if (tlDelBtn) {
-      const tlWrap = tlDelBtn.closest('[data-tl]');
-      const url = tlWrap?.dataset.tl;
-      const idx = Number(tlDelBtn.dataset.tlDel);
-      if (url && state.timeline[url]) {
-        state.timeline[url].splice(idx, 1);
-        if (!state.timeline[url].length) delete state.timeline[url];
-        save();
-        tlWrap.innerHTML = timelineInnerHtml(url);
-      }
-      return;
-    }
-
     const btn = e.target.closest('.act');
     if (!btn) return;
     const card = btn.closest('.job');
@@ -2122,24 +2067,6 @@
     if (value) state.notes[url] = note.value;
     else delete state.notes[url];
     save();
-  });
-
-  // Timeline: Enter in the log input submits the event.
-  $('jobs').addEventListener('keydown', e => {
-    if (e.key !== 'Enter') return;
-    const input = e.target.closest('[data-tl-input]');
-    if (!input) return;
-    e.preventDefault();
-    const tlWrap = input.closest('[data-tl]');
-    const url = tlWrap?.dataset.tl;
-    const text = input.value.trim();
-    if (url && text) {
-      state.timeline[url] = state.timeline[url] || [];
-      state.timeline[url].push({ ts: Date.now(), text });
-      input.value = '';
-      save();
-      tlWrap.innerHTML = timelineInnerHtml(url);
-    }
   });
 
   // Star hover: fill stars up to the hovered button; reset on leave.
