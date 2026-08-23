@@ -1,44 +1,7 @@
 {
-  "scraped_at": "2026-08-23 04:22 UTC",
-  "total": 2,
+  "scraped_at": "2026-08-23 15:48 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "FlapKap",
-      "title": "Credit Analyst",
-      "location": "المعادي, C, EG",
-      "url": "https://eg.indeed.com/viewjob?jk=c1e29a90343dc8f4",
-      "direct_url": "https://apply.workable.com/j/53CD9812CB",
-      "company_url": "https://eg.indeed.com/cmp/Flapkap",
-      "date_posted": "2026-08-09",
-      "description": "**What is FlapKap ?**\n\nFlapKap is a data\\-driven fintech lender providing short\\-term working capital to SMEs in the UAE. We underwrite businesses on their financial health and cash flow dynamics rather than traditional collateral\\-based criteria, using AI\\-powered credit models built in\\-house.\n\n\nWe lend across three products:\n\n* POS Financing — installment facilities for B2C merchants with significant card\\-based revenue\n* Short Term Loan (STL) — working capital facilities for B2B trading, service and manufacturing SMEs\n* Invoice Discounting (ID) — advances against approved receivables from verified debtors\n\n**What will you do ?**\n\n\nThis role sits in our Cairo office and underwrites the UAE book. You'll work the same files, the same credit policy and the same committee as the Dubai team — the desk is just in a different city.\n\n\nYour job is underwriting: take an application, spread the financials, verify what can be verified, form a view on whether this business will repay, and put a defensible recommendation in front of the Investment Committee. You'll do a high volume of it, across all three products, and you'll get good at spotting the patterns that don't show up in any single document.\n\n\nJob responsibilities:\n\n* Underwrite POS, STL and Invoice Discounting applications end to end\n* Spread and analyse bank statements, VAT filings, audited financials, management accounts and receivables/payables ageing reports\n* Extract and interpret AECB credit bureau reports, and cross\\-verify them against bank statements and facility letters — the sources routinely disagree, and working out which one is wrong is most of the job\n* Input verified data into our product\\-specific credit models and assign risk ratings\n* Verify supporting documentation: trade licenses, Ejari and rent contracts\n* Assess debtor quality on invoice discounting files — payment history, relationship tenure, invoice authenticity\n* Flag enhanced\\-review triggers: thin bank\\-verifiable revenue, offshore revenue concentration, single\\-debtor dependency, minimal apparent value\\-add\n* Prepare credit memos and present recommendations to Investment Committee\n* Coordinate with the Dubai team on pre\\-disbursement steps — site visits and in\\-person verification stay with colleagues on the ground\n* Feed patterns you notice back to the Head of Credit; the policy gets revised on the strength of what underwriters actually see in the files\n\n  \n\n**Requirements**  \n\n* 2–4 years underwriting SME or commercial credit at a bank, non\\-bank lender or fintech\n* Genuine hands\\-on financial analysis — you've spread statements yourself, not just reviewed someone else's spreads\n* Comfort with bank statement analysis and cash flow assessment as a primary underwriting tool, including businesses where the reported numbers and the bank activity don't match\n* Strong Excel; comfortable working at volume without losing accuracy\n* Clear written English — your credit memos are how decisions get made\n* Willingness to learn UAE credit infrastructure quickly. We don't expect you to arrive knowing AECB, Ejari or the UAE VAT regime; we do expect you to be fluent in them within a couple of months\n\n\nNice to have\n\n* Prior experience underwriting a market you weren't physically based in\n* Exposure to receivables finance or invoice discounting\n* Knowledge of AI tools and LLM models\n\n\nWorking arrangements\nYou'll be aligned to the UAE working week and business hours to stay in step with the Dubai team, Investment Committee and the commercial desk. Expect daily contact with Dubai colleagues and periodic travel there.\n\n\nWhat success looks like* 1 month — fluent in UAE documentation and bureau data; underwriting straightforward files with review\n* 3 months — underwriting independently across all three products and presenting your own cases at Investment Committee\n* 6 months — trusted on complex and enhanced\\-review files, with a rating\\-accuracy record that holds up against realised portfolio outcomes\n\n **Benefits**  \n\n* Competitive Salaries\n* Paid time off\n* Healthcare coverage\n* A highly collaborative team environment that will support your professional and personal growth\n* A culture that promotes Work\\-Life balance and Wellbeing\n* A culture of learning and innovation",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Commercial International Bank",
-      "title": "Credit Risk Analyst",
-      "location": "الجيزة, GZ, EG",
-      "url": "https://eg.indeed.com/viewjob?jk=f6d56e63f5d16824",
-      "direct_url": "http://eg.indeed.com/job/credit-risk-analyst-f6d56e63f5d16824",
-      "company_url": "https://eg.indeed.com/cmp/Commercial-International-Bank",
-      "date_posted": "2026-07-31",
-      "description": "Commercial International Bank (CIB) is Egypt's leading private\\-sector bank, providing comprehensive banking solutions for individuals, SMEs, and large corporations. It is recognized for its digital innovation and strong financial performance.\n\nA Credit Risk Analyst evaluates the creditworthiness of individuals, businesses, or organizations to determine the level of financial risk involved in lending money or extending credit. They analyze financial data, assess repayment capacity, and provide recommendations to help minimize potential losses while supporting sound lending decisions.\n\nKey Responsibilities\n\n* Analyze financial statements, credit reports, and cash flow data.\n* Assess the creditworthiness of loan applicants or business clients.\n* Prepare credit risk reports and recommendations for loan approvals or rejections.\n* Monitor existing loan portfolios for signs of increased credit risk.\n* Identify potential financial risks and recommend mitigation strategies.\n* Ensure compliance with internal credit policies and regulatory requirements.\n* Collaborate with relationship managers, loan officers, and senior management.\n* Maintain accurate records and documentation of credit assessments.\n\nPay: From E£7,000\\.00 per month\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
