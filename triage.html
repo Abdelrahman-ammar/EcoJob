@@ -339,7 +339,26 @@
   .job[data-state="dismissed"], .job[data-state="irrelevant"] { opacity: 0.5; }
   .job[data-state="irrelevant"] { border-left: 3px solid #7f1d1d; }
 
-  /* Salary range control */
+  /* ---- Tracked Keywords editor ---- */
+  .kwcard { margin-bottom: 18px; }
+  .kwcard .hint { font-size: 11px; color: var(--muted); margin: 2px 0 10px; line-height: 1.45; }
+  .kwcard .hint code { background: var(--pill-bg); border-radius: 4px; padding: 1px 4px; }
+  .kwchips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+  .kwchip { display: inline-flex; align-items: center; gap: 4px; background: var(--pill-bg);
+    border: 1px solid var(--line); border-radius: 14px; padding: 5px 4px 5px 12px; font-size: 12px; color: var(--ink); }
+  .kwchip button { background: none; border: none; color: var(--muted); cursor: pointer;
+    font-size: 13px; line-height: 1; padding: 3px 6px; border-radius: 50%; font-family: inherit; }
+  .kwchip button:hover { color: var(--accent); background: var(--line); }
+  .kwrow { display: flex; gap: 8px; margin-bottom: 8px; }
+  .kwrow input[type=text] { flex: 1; min-width: 0; padding: 7px 10px; border: 1px solid var(--line);
+    border-radius: 8px; background: var(--input-bg); color: var(--ink); font-size: 13px; font-family: inherit; }
+  .kwrow input[type=text]:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  .kw-status { font-size: 11.5px; color: var(--muted); min-height: 14px; }
+  .kw-status.err { color: #f87171; }
+  .kw-status.ok { color: var(--applied); }
+  .kw-token-row { display: flex; align-items: center; gap: 8px; margin-top: 10px; padding-top: 10px;
+    border-top: 1px solid var(--line); flex-wrap: wrap; }
+
   .about-tool {
     margin: 22px 0 0; padding-top: 12px; border-top: 1px solid var(--line);
     color: var(--muted); font-size: 11px; line-height: 1.45;
@@ -367,6 +386,21 @@
 </header>
 
 <aside class="sidebar">
+
+<div class="card kwcard">
+  <h3>Tracked Keywords</h3>
+  <p class="hint">Job titles to search for. Saving here commits straight to <code>config.json</code> in your repo — takes effect on the next scrape run, not instantly.</p>
+  <div class="kwchips" id="kw-chips"></div>
+  <div class="kwrow">
+    <input type="text" id="kw-input" placeholder="Add a keyword, press Enter or , to add…" autocomplete="off" spellcheck="false" />
+    <button type="button" class="btn" id="kw-save">Save</button>
+  </div>
+  <div class="kw-status" id="kw-status"></div>
+  <div class="kw-token-row">
+    <button type="button" class="iconbtn" id="kw-token-btn">🔑 Set GitHub token</button>
+    <span class="kw-status" id="kw-token-status">Needed once, to let this page commit to your repo.</span>
+  </div>
+</div>
 
 <div class="kpis">
   <div class="kpi"><div class="num" id="kpi-total">0</div><div class="lbl">Total</div></div>
@@ -625,7 +659,128 @@
         const h1 = document.querySelector('header h1');
         if (h1) h1.textContent = (p.emoji ? p.emoji + ' ' : '') + p.title;
       }
+      // Only pull keywords from config.json if the user has no unsaved edits
+      // in progress — otherwise a background auto-refresh would wipe a draft.
+      if (KEYWORDS === null || !KEYWORDS_DIRTY) {
+        const inc = ((cfg.keywords || {}).include) || [];
+        if (Array.isArray(inc)) KEYWORDS = inc.slice();
+      }
+      renderKeywordChips();
     } catch (e) { console.warn('[applyConfig] ignored bad config:', e.message); }
+  }
+
+  // ---------- Tracked Keywords editor (writes config.json via GitHub API) ----------
+  // Lets the dashboard itself edit config.json's search keywords, instead of
+  // only editing the file by hand. The page has no server, so the commit is
+  // made directly from the browser using a token the user supplies once and
+  // that stays only in this browser's localStorage — never sent anywhere but
+  // GitHub's own API, never written into the repo.
+  const GH_TOKEN_KEY = 'jobTriage:ghToken';
+  let KEYWORDS = null;       // null = not yet loaded from config.json
+  let KEYWORDS_DIRTY = false; // true once the user has an unsaved edit
+
+  function ghToken() {
+    try { return localStorage.getItem(GH_TOKEN_KEY) || ''; } catch { return ''; }
+  }
+  function setGhToken(t) {
+    try {
+      if (t) localStorage.setItem(GH_TOKEN_KEY, t);
+      else localStorage.removeItem(GH_TOKEN_KEY);
+    } catch {}
+    renderTokenStatus();
+  }
+  function renderTokenStatus() {
+    const btn = $('kw-token-btn');
+    if (!btn) return;
+    btn.textContent = ghToken() ? '🔑 GitHub token set ✓' : '🔑 Set GitHub token';
+  }
+
+  function ownerRepo() {
+    const h = window.location.hostname;
+    if (!h.endsWith('.github.io')) return null;
+    const owner = h.replace('.github.io', '');
+    const repo = window.location.pathname.split('/').filter(Boolean)[0] || '';
+    return repo ? { owner, repo } : null;
+  }
+
+  function setKwStatus(msg, cls) {
+    const el = $('kw-status');
+    if (!el) return;
+    el.textContent = msg;
+    el.className = 'kw-status' + (cls ? ' ' + cls : '');
+  }
+
+  function renderKeywordChips() {
+    const host = $('kw-chips');
+    if (!host) return;
+    const list = KEYWORDS || [];
+    host.innerHTML = list.length
+      ? list.map((kw, i) =>
+          `<span class="kwchip">${escape(kw)}<button type="button" data-kw-rm="${i}" aria-label="Remove ${escape(kw)}">✕</button></span>`
+        ).join('')
+      : '<span class="hint" style="margin:0">No keywords yet — add one below.</span>';
+  }
+
+  function addKeywordFromInput() {
+    const input = $('kw-input');
+    if (!input) return;
+    let added = false;
+    input.value.split(',').forEach(part => {
+      const kw = part.trim();
+      if (!kw) return;
+      KEYWORDS = KEYWORDS || [];
+      if (!KEYWORDS.some(k => k.toLowerCase() === kw.toLowerCase())) {
+        KEYWORDS.push(kw);
+        added = true;
+      }
+    });
+    input.value = '';
+    if (added) { KEYWORDS_DIRTY = true; renderKeywordChips(); setKwStatus('Unsaved changes.', ''); }
+  }
+
+  // UTF-8-safe base64 helpers — job keywords may include non-ASCII text.
+  function b64EncodeUtf8(str) { return btoa(unescape(encodeURIComponent(str))); }
+  function b64DecodeUtf8(str) { return decodeURIComponent(escape(atob(str))); }
+
+  async function saveKeywordsToGitHub() {
+    const token = ghToken();
+    if (!token) { setKwStatus('Set a GitHub token first (button below).', 'err'); return; }
+    const or_ = ownerRepo();
+    if (!or_) { setKwStatus('This only works when viewing the dashboard on GitHub Pages.', 'err'); return; }
+    if (!KEYWORDS || !KEYWORDS.length) { setKwStatus('Add at least one keyword first.', 'err'); return; }
+
+    setKwStatus('Saving…', '');
+    const api = `https://api.github.com/repos/${or_.owner}/${or_.repo}/contents/config.json`;
+    const headers = { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github+json' };
+    try {
+      const getRes = await fetch(api, { headers });
+      if (!getRes.ok) throw new Error(`Couldn't read config.json (HTTP ${getRes.status}) — check the token has access to this repo.`);
+      const getJson = await getRes.json();
+      const current = JSON.parse(b64DecodeUtf8(getJson.content.replace(/\n/g, '')));
+      current.keywords = current.keywords || {};
+      current.keywords.include = KEYWORDS.slice();
+      current.search_terms = current.search_terms || {};
+      current.search_terms.linkedin = KEYWORDS.slice();
+      current.search_terms.indeed = KEYWORDS.slice();
+
+      const putRes = await fetch(api, {
+        method: 'PUT',
+        headers: { ...headers, 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          message: 'chore: update tracked keywords via dashboard',
+          content: b64EncodeUtf8(JSON.stringify(current, null, 2) + '\n'),
+          sha: getJson.sha,
+        }),
+      });
+      if (!putRes.ok) {
+        const detail = await putRes.text().catch(() => '');
+        throw new Error(`Save failed (HTTP ${putRes.status}): ${detail.slice(0, 200)}`);
+      }
+      KEYWORDS_DIRTY = false;
+      setKwStatus('Saved — takes effect on the next scrape run.', 'ok');
+    } catch (e) {
+      setKwStatus(e.message || 'Save failed.', 'err');
+    }
   }
 
   // ---------- Classifiers ----------
@@ -2166,6 +2321,34 @@
     try { await navigator.clipboard.writeText(text); toast('Copied to clipboard'); }
     catch { toast('Copy failed — select text manually'); }
   }
+
+  // ---------- Tracked Keywords editor wiring ----------
+  $('kw-chips').addEventListener('click', e => {
+    const btn = e.target.closest('[data-kw-rm]');
+    if (!btn) return;
+    KEYWORDS.splice(Number(btn.dataset.kwRm), 1);
+    KEYWORDS_DIRTY = true;
+    renderKeywordChips();
+    setKwStatus('Unsaved changes.', '');
+  });
+  $('kw-input').addEventListener('keydown', e => {
+    if (e.key === 'Enter' || e.key === ',') { e.preventDefault(); addKeywordFromInput(); }
+  });
+  $('kw-input').addEventListener('blur', () => {
+    if ($('kw-input').value.trim()) addKeywordFromInput();
+  });
+  $('kw-save').onclick = saveKeywordsToGitHub;
+  $('kw-token-btn').onclick = () => {
+    const next = window.prompt(
+      'Paste a GitHub fine-grained personal access token, scoped to ONLY this repo with\n' +
+      '"Contents: Read and write" permission (Settings → Developer settings → Fine-grained tokens).\n\n' +
+      'Leave blank and press OK to clear the saved token.',
+      ''
+    );
+    if (next === null) return; // cancelled
+    setGhToken(next.trim());
+  };
+  renderTokenStatus();
 
   // ---------- Repo + Clear links — dynamic on GitHub Pages, fallback to upstream ----------
   (function () {
