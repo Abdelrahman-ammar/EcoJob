@@ -11,7 +11,8 @@
       "credit analyst",
       "portfolio manager",
       "risk analyst",
-      "investment analyst"
+      "investment analyst",
+      "Financial Analyst"
     ],
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
     "exclude": [
@@ -32,13 +33,15 @@
       "credit analyst",
       "portfolio manager",
       "risk analyst",
-      "investment analyst"
+      "investment analyst",
+      "Financial Analyst"
     ],
     "indeed": [
       "credit analyst",
       "portfolio manager",
       "risk analyst",
-      "investment analyst"
+      "investment analyst",
+      "Financial Analyst"
     ]
   },
   "locations": {
