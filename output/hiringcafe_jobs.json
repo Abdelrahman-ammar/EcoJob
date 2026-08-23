@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 19:20 UTC",
-  "total": 66,
-  "new_count": 0,
+  "scraped_at": "2026-08-23 20:19 UTC",
+  "total": 65,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -12,20 +12,6 @@
       "date_posted": "2026-07-31T00:00:00.000Z",
       "description": "Board-certified toxicologist with expertise in urine and oral fluid drug-test interpretation, expert testimony experience, strong communication, and training ability.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Enhesa",
-      "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "date_posted": "2026-08-13T16:55:41.000Z",
-      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
-      "salary": "$90k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -43,6 +29,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Enhesa",
+      "title": "Toxicologist",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
+      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
+      "date_posted": "2026-08-13T16:55:41.000Z",
+      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
+      "salary": "$90k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -88,17 +88,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Procter & Gamble",
-      "title": "Senior Veterinary Toxicologist – Product Safety",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
-      "salary": "$144k–$219k/yr",
+      "company": "Amgen",
+      "title": "Scientific Associate Director - Project Toxicologist",
+      "location": "United States or Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
+      "direct_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "PhD, PharmD, or MD with 4 years of toxicology experience; master's with 7 years; or bachelor's with 9 years. Preferred: 8+ years drug development, regulatory experience, and toxicology expertise.",
+      "salary": "$194k–$263k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -116,17 +116,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Amgen",
-      "title": "Scientific Associate Director - Project Toxicologist",
-      "location": "United States or Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
-      "direct_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "PhD, PharmD, or MD with 4 years of toxicology experience; master's with 7 years; or bachelor's with 9 years. Preferred: 8+ years drug development, regulatory experience, and toxicology expertise.",
-      "salary": "$194k–$263k/yr",
+      "company": "Procter & Gamble",
+      "title": "Senior Veterinary Toxicologist – Product Safety",
+      "location": "Cincinnati, Ohio, United States",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
+      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
+      "salary": "$144k–$219k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -242,20 +242,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ayres Associates",
-      "title": "Environmental Scientist",
-      "location": "Green Bay, Wisconsin, United States",
-      "url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
-      "direct_url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
-      "date_posted": "2026-08-11T20:41:07.441Z",
-      "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "United Water Conservation District",
       "title": "Environmental Scientist",
       "location": "Oxnard, California, United States",
@@ -264,6 +250,20 @@
       "date_posted": "2026-08-07T19:57:38.000Z",
       "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
       "salary": "$100k–$121k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ayres Associates",
+      "title": "Environmental Scientist",
+      "location": "Green Bay, Wisconsin, United States",
+      "url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "direct_url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "date_posted": "2026-08-11T20:41:07.441Z",
+      "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -466,20 +466,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -488,6 +474,20 @@
       "date_posted": "2026-08-14T18:58:27.000Z",
       "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
       "salary": "$68k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -816,20 +816,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Boise or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "AECOM",
       "title": "Environmental Scientist",
       "location": "Long Beach or California or United States or North America",
@@ -869,20 +855,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Utah Department of Environmental Quality",
-      "title": "Environmental Scientist I-III",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Requires 2+ years of environmental science experience, independent work, analytical skills, stakeholder communication, and problem solving. Bachelor's degree, health physics, HAZWOPER, and radiation safety expertise preferred.",
-      "salary": "$54k–$112k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -926,7 +898,36 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville or South Carolina or Georgia or Alabama or Florida or North America",
+      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "date_posted": "2026-08-12T19:19:39.203Z",
+      "description": "Requires environmental consulting experience, natural resource investigations, permitting, regulatory coordination, technical reporting, field data collection, Microsoft 365, and ArcGIS proficiency; Florida experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville or South Carolina or Georgia or Alabama or Florida or North America",
+      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "date_posted": "2026-08-12T19:19:39.203Z",
+      "description": "Requires environmental consulting experience, natural resource investigations, permitting, regulatory coordination, technical reporting, field data collection, Microsoft 365, and ArcGIS proficiency; Florida experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
