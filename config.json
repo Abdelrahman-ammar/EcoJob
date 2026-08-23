@@ -1,73 +1,108 @@
 {
   "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
-
   "profile": {
     "title": "Egypt Finance Job Tracker",
     "subtitle": "Egypt · Credit / Portfolio / Risk / Investment",
     "emoji": "💼"
   },
-
   "keywords": {
     "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
     "include": [
-      "credit analyst", "portfolio manager", "risk analyst", "investment analyst"
+      "credit analyst",
+      "portfolio manager",
+      "risk analyst",
+      "investment analyst",
+      "zzz-playwright-realtest"
     ],
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
     "exclude": [
-      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice",
-      "volunteer", "work-study"
+      "intern",
+      "interns",
+      "internship",
+      "co-op",
+      "coop",
+      "trainee",
+      "apprentice",
+      "volunteer",
+      "work-study"
     ]
   },
-
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-      "credit analyst", "portfolio manager", "risk analyst", "investment analyst" , "financial analyst"
+      "credit analyst",
+      "portfolio manager",
+      "risk analyst",
+      "investment analyst",
+      "zzz-playwright-realtest"
     ],
     "indeed": [
-      "credit analyst", "portfolio manager", "risk analyst", "investment analyst" , "financial analyst"
+      "credit analyst",
+      "portfolio manager",
+      "risk analyst",
+      "investment analyst",
+      "zzz-playwright-realtest"
     ]
   },
-
   "locations": {
     "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). Indeed (via JobSpy) needs a location + country. The map auto-fits to wherever the jobs are.",
     "linkedin": [
-      { "name": "Egypt", "location": "Egypt", "geoId": "" }
+      {
+        "name": "Egypt",
+        "location": "Egypt",
+        "geoId": ""
+      }
     ],
     "indeed": [
-      { "location": "Egypt", "country": "Egypt" }
+      {
+        "location": "Egypt",
+        "country": "Egypt"
+      }
     ]
   },
-
   "location_filter": {
     "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards that don't support geo-scoping at the API level.",
     "terms": [
-      "egypt", "cairo", "giza", "alexandria", "6th of october", "new cairo", "remote"
+      "egypt",
+      "cairo",
+      "giza",
+      "alexandria",
+      "6th of october",
+      "new cairo",
+      "remote"
     ]
   },
-
   "employers": {
     "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
     "priority": [],
     "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring).",
     "exclude": []
   },
-
   "priority_topics": {
     "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
     "terms": []
   },
-
   "role_categories": {
     "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
     "terms": [
-      ["Credit", "credit"],
-      ["Portfolio Management", "portfolio"],
-      ["Risk", "risk"],
-      ["Investment", "invest"]
+      [
+        "Credit",
+        "credit"
+      ],
+      [
+        "Portfolio Management",
+        "portfolio"
+      ],
+      [
+        "Risk",
+        "risk"
+      ],
+      [
+        "Investment",
+        "invest"
+      ]
     ]
   },
-
   "notify": {
     "_comment": "Pushover phone alerts (optional; needs PUSHOVER_TOKEN/USER secrets). Notify when a new role is a priority-topic OR scores at/above min_fit.",
     "min_fit": 75,
