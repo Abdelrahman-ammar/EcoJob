@@ -724,8 +724,22 @@
   }
 
   // UTF-8-safe base64 helpers — job keywords may include non-ASCII text.
-  function b64EncodeUtf8(str) { return btoa(unescape(encodeURIComponent(str))); }
-  function b64DecodeUtf8(str) { return decodeURIComponent(escape(atob(str))); }
+  // TextEncoder/TextDecoder, not the classic escape()/unescape() trick — this
+  // page defines its own escape() (HTML-entity escaping) in the same scope,
+  // which shadows the built-in escape() that trick depends on and silently
+  // corrupts the decoded bytes before JSON.parse ever sees them.
+  function b64EncodeUtf8(str) {
+    const bytes = new TextEncoder().encode(str);
+    let binary = '';
+    bytes.forEach(b => { binary += String.fromCharCode(b); });
+    return btoa(binary);
+  }
+  function b64DecodeUtf8(str) {
+    const binary = atob(str);
+    const bytes = new Uint8Array(binary.length);
+    for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+    return new TextDecoder('utf-8').decode(bytes);
+  }
 
   async function saveKeywordsToGitHub() {
     const token = ghToken();
