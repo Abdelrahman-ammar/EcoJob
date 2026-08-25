@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 04:36 UTC",
+  "scraped_at": "2026-08-25 17:28 UTC",
   "total": 67,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -942,20 +942,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "New Mexico Environment Department",
-      "title": "Environmental Scientist (NMED #12341)",
-      "location": "Clovis, New Mexico, United States",
-      "url": "https://careers.share.nm.gov/psc/hprdcg/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=166623&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.share.nm.gov/psc/hprdcg/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=166623&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-08-18T12:00:00.000Z",
-      "description": "Bachelor's degree in a related science or engineering field plus 2 years of public or environmental health experience, or 6 years of combined education and experience. Valid driver's license and defensive driving certification required.",
-      "salary": "$69k–$103k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
