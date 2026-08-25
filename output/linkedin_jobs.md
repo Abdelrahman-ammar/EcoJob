@@ -1,13 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-25 16:11 UTC*
+*Last updated: 2026-08-25 17:07 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Environmental Analyst](https://www.linkedin.com/jobs/view/4456922735/) — Verex Engineering LLC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-25
-
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454300440/) — Triumvirate Environmental
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $28 USD - $28 USD
+### [Alameda Creek Watershed Center Programs and Operations Manager (0922) – Natural Resources and Lands Management Division (Sunol, CA) – SFPUC (167137)](https://www.linkedin.com/jobs/view/4458789738/) — City and County of San Francisco
+- 📍 **Location:** Sunol, CA
 - 🕒 **Posted:** 2026-08-25
