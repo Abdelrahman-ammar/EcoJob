@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 21:24 UTC",
-  "total": 67,
-  "new_count": 1,
+  "scraped_at": "2026-08-25 22:23 UTC",
+  "total": 70,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -144,20 +144,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Procter & Gamble",
-      "title": "Senior Veterinary Toxicologist – Product Safety",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
-      "salary": "$144k–$219k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
       "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
       "location": "Baltimore, Maryland, United States",
@@ -169,6 +155,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Procter & Gamble",
+      "title": "Senior Veterinary Toxicologist – Product Safety",
+      "location": "Cincinnati, Ohio, United States",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
+      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
+      "salary": "$144k–$219k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -197,20 +197,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Energy Northwest",
-      "title": "Environmental Scientist",
-      "location": "Richland, Washington, United States",
-      "url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
-      "direct_url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental science, engineering, chemistry, biological science, or related technical field and eight years of environmental experience; regulatory, permitting, audit, and environmental program expertise required.",
-      "salary": "$126k–$190k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -404,6 +390,20 @@
       "date_posted": "2026-08-18T16:58:51.409Z",
       "description": "Bachelor’s degree in an environmental or related discipline, valid driver’s license, strong computer, writing, communication, and problem-solving skills, and ability to perform outdoor fieldwork and lift up to 50 pounds.",
       "salary": "$54k–$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Alpharetta or Georgia or Alabama or Florida or Mississippi or United States",
+      "url": "https://stantec.jobs/georgia-usa/environmental-scientist/026EE8D161A84459870A32BB67CA6AE7/job/",
+      "direct_url": "https://stantec.jobs/georgia-usa/environmental-scientist/026EE8D161A84459870A32BB67CA6AE7/job/",
+      "date_posted": "2026-08-25T17:03:01.000Z",
+      "description": "Bachelor’s degree in an environmental discipline, 2–5 years of ecological or biological survey experience, valid driver’s license, technical writing, GPS and computer skills, and willingness to travel extensively for fieldwork.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -844,6 +844,34 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Energy Northwest",
+      "title": "Environmental Scientist",
+      "location": "Richland, Washington, United States",
+      "url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "direct_url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental science, engineering, chemistry, biological science, or related technical field and eight years of environmental experience; regulatory, permitting, audit, and environmental program expertise required.",
+      "salary": "$126k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "AECOM",
       "title": "Environmental Scientist",
       "location": "Long Beach or California or United States or North America",
@@ -940,18 +968,60 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "HNTB",
+      "title": "Environmental Scientist/Ecologist",
+      "location": "Nashville, Tennessee, United States",
+      "url": "https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/",
+      "direct_url": "https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/",
+      "date_posted": "2026-08-21T14:48:47.000Z",
+      "description": "Bachelor's degree in a related science plus 4 years' relevant experience, or master's degree plus 3 years. Environmental investigations, regulations, permitting, reporting, and GIS experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Oakgov",
-      "title": "Forensic Toxicologist",
-      "location": "Pontiac, Michigan, United States",
-      "url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Pontiac-Michigan-United-States/Forensic-Toxicologist_JR-0000809",
-      "direct_url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Pontiac-Michigan-United-States/Forensic-Toxicologist_JR-0000809",
-      "date_posted": "2026-08-25T00:00:00.000Z",
-      "description": "Bachelor's degree plus 2 years, master's degree plus 1 year, or Ph.D. in a relevant scientific field; analytical forensic toxicology experience, laboratory testing expertise, and ability to provide expert testimony required.",
-      "salary": "$86k–$115k/yr",
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Alpharetta or Georgia or Alabama or Florida or Mississippi or United States",
+      "url": "https://stantec.jobs/georgia-usa/environmental-scientist/026EE8D161A84459870A32BB67CA6AE7/job/",
+      "direct_url": "https://stantec.jobs/georgia-usa/environmental-scientist/026EE8D161A84459870A32BB67CA6AE7/job/",
+      "date_posted": "2026-08-25T17:03:01.000Z",
+      "description": "Bachelor’s degree in an environmental discipline, 2–5 years of ecological or biological survey experience, valid driver’s license, technical writing, GPS and computer skills, and willingness to travel extensively for fieldwork.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HNTB",
+      "title": "Environmental Scientist/Ecologist",
+      "location": "Nashville, Tennessee, United States",
+      "url": "https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/",
+      "direct_url": "https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/",
+      "date_posted": "2026-08-21T14:48:47.000Z",
+      "description": "Bachelor's degree in a related science plus 4 years' relevant experience, or master's degree plus 3 years. Environmental investigations, regulations, permitting, reporting, and GIS experience preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
