@@ -1,8 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-25 03:23 UTC*
+*Last updated: 2026-08-25 16:11 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454308516/) — Recology
-- 📍 **Location:** California, United States
+### [Environmental Analyst](https://www.linkedin.com/jobs/view/4456922735/) — Verex Engineering LLC
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-25
+
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454300440/) — Triumvirate Environmental
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $28 USD - $28 USD
 - 🕒 **Posted:** 2026-08-25
