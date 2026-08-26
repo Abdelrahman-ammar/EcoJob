@@ -1,17 +1,23 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-26 04:36 UTC*
+*Last updated: 2026-08-26 18:57 UTC*
 
-**2 new role(s)** since last run · 70 total in last 30d
+**3 new role(s)** since last run · 71 total in last 30d
 
-### [Lead Security Risk Assessment Analyst](https://jobs.lincolnfinancial.com/job/Radnor-Lead-Security-Risk-Assessment-Analyst-PA/1423295300/) — Lincoln Financial
-- 📍 **Location:** Radnor or Charlotte or Fort Wayne or Greensboro or Syracuse
-- 💰 **Salary:** $120k–$193k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-25T00:00:00.000Z
-
-### [Environmental Scientist I](https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470) — Wsc
-- 📍 **Location:** Des Moines, Iowa, United States
+### [Senior Toxicologist, NIEHS Literature Review (Proposal)](https://egpy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/JoinAbt/requisitions/job/107223) — Abt Global
+- 📍 **Location:** Durham, North Carolina, United States
+- 💰 **Salary:** $110k–$176k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-26T14:57:42.000Z
+
+### [Environmental Scientist/Ecologist](https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/) — HNTB
+- 📍 **Location:** Nashville, Tennessee, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-21T14:48:47.000Z
+
+### [Senior Environmental Scientist](https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true) — Johnson, Mirmiran & Thompson, Inc.
+- 📍 **Location:** Jacksonville or South Carolina or Georgia or Alabama or Florida or North America
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-12T19:19:39.203Z
