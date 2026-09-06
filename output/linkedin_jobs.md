@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Egypt Finance Roles
-*Last updated: 2026-09-05 23:10 UTC*
+*Last updated: 2026-09-06 00:57 UTC*
 
 **0 new role(s)** since last run · 1 total in last 1h
 
