@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Egypt Finance Roles
-*Last updated: 2026-09-15 01:28 UTC*
+*Last updated: 2026-09-15 07:45 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Senior Financial Analyst](https://www.linkedin.com/jobs/view/4467712089/) — Overseas Talent Match
+- 📍 **Location:** Giza, Al Jizah, Egypt
+- 🕒 **Posted:** 2026-09-15
+
+### [IT Risk Analyst](https://www.linkedin.com/jobs/view/4467716103/) — Cretik
+- 📍 **Location:** Qesm El Maadi, Cairo, Egypt
+- 🕒 **Posted:** 2026-09-15
