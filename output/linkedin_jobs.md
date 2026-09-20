@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Egypt Finance Roles
-*Last updated: 2026-09-20 20:49 UTC*
+*Last updated: 2026-09-20 23:15 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Sr. Financial Analyst](https://www.linkedin.com/jobs/view/4469820442/) — Overseas Talent Match
-- 📍 **Location:** Giza, Al Jizah, Egypt
-- 🕒 **Posted:** 2026-09-20
+No new roles since the last run.
