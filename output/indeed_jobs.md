@@ -1,5 +1,5 @@
 # 🟦 Indeed — Egypt Finance Roles
-*Last updated: 2026-10-01 20:30 UTC*
+*Last updated: 2026-10-02 00:03 UTC*
 
 **0 new role(s)** since last run · 1 total in last 24h
 
