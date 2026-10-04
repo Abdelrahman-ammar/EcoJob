@@ -1,5 +1,5 @@
 # 🏛 Priority Employers — Egypt Finance Roles
-*Last updated: 2026-10-03 09:04 UTC*
+*Last updated: 2026-10-04 09:40 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
