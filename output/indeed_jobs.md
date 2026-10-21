@@ -1,6 +1,9 @@
 # 🟦 Indeed — Egypt Finance Roles
-*Last updated: 2026-10-21 06:34 UTC*
+*Last updated: 2026-10-21 19:29 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Budgeting Financial Analyst](https://eg.indeed.com/viewjob?jk=b568fa4e93ecd49f) — EGBank
+- 📍 **Location:** القاهرة, C, Egypt
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-21
